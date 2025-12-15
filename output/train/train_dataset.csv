@@ -1,0 +1,299 @@
+invoice_id,pdf,pharmacy,date,doctor,brand,generic,strength,batch,qty,price,gst,line_total,is_banned
+TRAIN-0001,output\train\TRAIN-0001.pdf,GreenLife Drug House,2025-04-03,DR-417643,Nimesulide DT,Nimesulide,100mg,B3KXNZGL,3,164.19,18,581.23,True
+TRAIN-0001,output\train\TRAIN-0001.pdf,GreenLife Drug House,2025-04-03,DR-417643,Cetcip,Cetirizine,10mg,B8HPD0U3,3,385.55,18,1364.85,False
+TRAIN-0002,output\train\TRAIN-0002.pdf,GreenLife Drug House,2025-10-15,DR-951737,Oflox-OZ,Ofloxacin + Ornidazole,200/500mg,SEFQOGHI,2,185.91,5,390.41,False
+TRAIN-0002,output\train\TRAIN-0002.pdf,GreenLife Drug House,2025-10-15,DR-951737,Corex,Codeine + CPM,10mg/4mg,D4VCQZ06,2,306.41,12,686.36,True
+TRAIN-0003,output\train\TRAIN-0003.pdf,GreenLife Drug House,2025-09-05,DR-543497,Nimesulide DT,Nimesulide,100mg,9XHMI2KO,3,311.29,5,980.56,True
+TRAIN-0003,output\train\TRAIN-0003.pdf,GreenLife Drug House,2025-09-05,DR-543497,Amoxyclav,Amoxicillin + Clavulanic Acid,500/125mg,2FOJSDSX,1,209.14,18,246.79,False
+TRAIN-0003,output\train\TRAIN-0003.pdf,GreenLife Drug House,2025-09-05,DR-543497,Cetcip,Cetirizine,10mg,VNN87Y4Q,3,326.45,18,1155.63,False
+TRAIN-0004,output\train\TRAIN-0004.pdf,GreenLife Drug House,2025-06-15,DR-478900,Saridon,Paracetamol Combo,250/150/50mg,MJK12H1Z,1,296.65,5,311.48,True
+TRAIN-0004,output\train\TRAIN-0004.pdf,GreenLife Drug House,2025-06-15,DR-478900,Azithral 500,Azithromycin,500mg,M24RN3F4,3,299.68,18,1060.87,False
+TRAIN-0004,output\train\TRAIN-0004.pdf,GreenLife Drug House,2025-06-15,DR-478900,Corex,Codeine + CPM,10mg/4mg,WIC6NM30,1,32.82,5,34.46,True
+TRAIN-0004,output\train\TRAIN-0004.pdf,GreenLife Drug House,2025-06-15,DR-478900,Corex,Codeine + CPM,10mg/4mg,224RHSHN,2,315.85,5,663.29,True
+TRAIN-0005,output\train\TRAIN-0005.pdf,CityMed Pharmacy,2025-01-22,DR-498776,Corex,Codeine + CPM,10mg/4mg,PPM2A8HY,3,380.05,12,1276.97,True
+TRAIN-0005,output\train\TRAIN-0005.pdf,CityMed Pharmacy,2025-01-22,DR-498776,Nimesulide DT,Nimesulide,100mg,SB8BZ961,1,363.81,18,429.30,True
+TRAIN-0005,output\train\TRAIN-0005.pdf,CityMed Pharmacy,2025-01-22,DR-498776,Oflox-OZ,Ofloxacin + Ornidazole,200/500mg,YT48ATTA,2,154.51,18,364.64,False
+TRAIN-0005,output\train\TRAIN-0005.pdf,CityMed Pharmacy,2025-01-22,DR-498776,Cefixime 200,Cefixime,200mg,0RQKC6LO,1,126.34,5,132.66,False
+TRAIN-0006,output\train\TRAIN-0006.pdf,WellCare Medicals,2025-09-18,DR-625547,Cefixime 200,Cefixime,200mg,6GU0M15C,1,183.22,5,192.38,False
+TRAIN-0006,output\train\TRAIN-0006.pdf,WellCare Medicals,2025-09-18,DR-625547,Oflox-OZ,Ofloxacin + Ornidazole,200/500mg,L9JJZP0J,1,122.43,18,144.47,False
+TRAIN-0007,output\train\TRAIN-0007.pdf,CityMed Pharmacy,2025-04-21,DR-840837,Oflox-OZ,Ofloxacin + Ornidazole,200/500mg,A99GPRYK,1,374.25,18,441.62,False
+TRAIN-0007,output\train\TRAIN-0007.pdf,CityMed Pharmacy,2025-04-21,DR-840837,Dolo 650,Paracetamol,650mg,BNCU9VJY,3,309.42,12,1039.65,False
+TRAIN-0008,output\train\TRAIN-0008.pdf,GreenLife Drug House,2025-01-27,DR-711276,Dolo 650,Paracetamol,650mg,C1TG20YA,2,293.80,18,693.37,False
+TRAIN-0008,output\train\TRAIN-0008.pdf,GreenLife Drug House,2025-01-27,DR-711276,Cefixime 200,Cefixime,200mg,Y96VDVTB,2,258.85,5,543.59,False
+TRAIN-0008,output\train\TRAIN-0008.pdf,GreenLife Drug House,2025-01-27,DR-711276,Corex,Codeine + CPM,10mg/4mg,VVXEY9SK,2,122.94,18,290.14,True
+TRAIN-0009,output\train\TRAIN-0009.pdf,GreenLife Drug House,2025-01-21,DR-905531,Saridon,Paracetamol Combo,250/150/50mg,PK9Q100G,2,70.83,12,158.66,True
+TRAIN-0009,output\train\TRAIN-0009.pdf,GreenLife Drug House,2025-01-21,DR-905531,Nimesulide DT,Nimesulide,100mg,I0VDKH51,2,248.68,5,522.23,True
+TRAIN-0009,output\train\TRAIN-0009.pdf,GreenLife Drug House,2025-01-21,DR-905531,Nimesulide DT,Nimesulide,100mg,CRL3PMLM,1,62.75,18,74.05,True
+TRAIN-0010,output\train\TRAIN-0010.pdf,GreenLife Drug House,2024-12-26,DR-478122,Amoxyclav,Amoxicillin + Clavulanic Acid,500/125mg,XT3GOVDQ,2,154.31,18,364.17,False
+TRAIN-0010,output\train\TRAIN-0010.pdf,GreenLife Drug House,2024-12-26,DR-478122,Saridon,Paracetamol Combo,250/150/50mg,DP06SLQA,1,144.31,18,170.29,True
+TRAIN-0011,output\train\TRAIN-0011.pdf,CityMed Pharmacy,2025-02-27,DR-366566,Analgin,Metamizole,500mg,IZSJ6H0J,3,264.58,18,936.61,True
+TRAIN-0011,output\train\TRAIN-0011.pdf,CityMed Pharmacy,2025-02-27,DR-366566,Cetcip,Cetirizine,10mg,W9NEDGH4,2,128.26,5,269.35,False
+TRAIN-0011,output\train\TRAIN-0011.pdf,CityMed Pharmacy,2025-02-27,DR-366566,Saridon,Paracetamol Combo,250/150/50mg,VQK0Q0L9,2,312.05,18,736.44,True
+TRAIN-0012,output\train\TRAIN-0012.pdf,WellCare Medicals,2025-04-15,DR-643148,Analgin,Metamizole,500mg,N5ONMOH1,3,188.78,12,634.30,True
+TRAIN-0012,output\train\TRAIN-0012.pdf,WellCare Medicals,2025-04-15,DR-643148,Azithral 500,Azithromycin,500mg,WX01ZXD6,1,161.25,12,180.60,False
+TRAIN-0012,output\train\TRAIN-0012.pdf,WellCare Medicals,2025-04-15,DR-643148,Cefixime 200,Cefixime,200mg,RCUTGTUJ,2,104.29,5,219.01,False
+TRAIN-0013,output\train\TRAIN-0013.pdf,TrustCare Pharma,2025-03-15,DR-878100,Analgin,Metamizole,500mg,I5SBIXQA,1,308.85,12,345.91,True
+TRAIN-0013,output\train\TRAIN-0013.pdf,TrustCare Pharma,2025-03-15,DR-878100,Saridon,Paracetamol Combo,250/150/50mg,RZPYMYFO,3,144.34,12,484.98,True
+TRAIN-0013,output\train\TRAIN-0013.pdf,TrustCare Pharma,2025-03-15,DR-878100,Azithral 500,Azithromycin,500mg,9K6L9RSJ,1,392.33,5,411.95,False
+TRAIN-0014,output\train\TRAIN-0014.pdf,CityMed Pharmacy,2025-02-07,DR-337988,Corex,Codeine + CPM,10mg/4mg,ZB2ABEWB,2,114.39,12,256.23,True
+TRAIN-0014,output\train\TRAIN-0014.pdf,CityMed Pharmacy,2025-02-07,DR-337988,Saridon,Paracetamol Combo,250/150/50mg,088GINDZ,2,307.07,5,644.85,True
+TRAIN-0014,output\train\TRAIN-0014.pdf,CityMed Pharmacy,2025-02-07,DR-337988,Analgin,Metamizole,500mg,D6EOKOP9,2,248.22,5,521.26,True
+TRAIN-0014,output\train\TRAIN-0014.pdf,CityMed Pharmacy,2025-02-07,DR-337988,Nimesulide DT,Nimesulide,100mg,GRF0PL0Z,2,98.04,12,219.61,True
+TRAIN-0015,output\train\TRAIN-0015.pdf,HealthPlus Medical Store,2025-10-23,DR-107618,Dolo 650,Paracetamol,650mg,T2YJBN8H,1,180.31,5,189.33,False
+TRAIN-0015,output\train\TRAIN-0015.pdf,HealthPlus Medical Store,2025-10-23,DR-107618,Cetcip,Cetirizine,10mg,TOGPAWIT,1,147.41,18,173.94,False
+TRAIN-0016,output\train\TRAIN-0016.pdf,HealthPlus Medical Store,2025-11-21,DR-898302,Nimesulide DT,Nimesulide,100mg,JVHGCP8O,1,170.65,5,179.18,True
+TRAIN-0016,output\train\TRAIN-0016.pdf,HealthPlus Medical Store,2025-11-21,DR-898302,Corex,Codeine + CPM,10mg/4mg,73S4B2FH,1,343.74,5,360.93,True
+TRAIN-0016,output\train\TRAIN-0016.pdf,HealthPlus Medical Store,2025-11-21,DR-898302,Nimesulide DT,Nimesulide,100mg,9JWV6RYO,2,66.91,18,157.91,True
+TRAIN-0016,output\train\TRAIN-0016.pdf,HealthPlus Medical Store,2025-11-21,DR-898302,Analgin,Metamizole,500mg,HR73KY9W,1,240.73,18,284.06,True
+TRAIN-0017,output\train\TRAIN-0017.pdf,CityMed Pharmacy,2025-09-19,DR-758592,Cetcip,Cetirizine,10mg,OH3DZE5N,1,398.02,12,445.78,False
+TRAIN-0017,output\train\TRAIN-0017.pdf,CityMed Pharmacy,2025-09-19,DR-758592,Azithral 500,Azithromycin,500mg,1PCK44ST,1,244.48,5,256.70,False
+TRAIN-0017,output\train\TRAIN-0017.pdf,CityMed Pharmacy,2025-09-19,DR-758592,Azithral 500,Azithromycin,500mg,0PRHLRM9,3,52.15,12,175.22,False
+TRAIN-0017,output\train\TRAIN-0017.pdf,CityMed Pharmacy,2025-09-19,DR-758592,Nimesulide DT,Nimesulide,100mg,0CUBF55G,1,107.92,5,113.32,True
+TRAIN-0018,output\train\TRAIN-0018.pdf,GreenLife Drug House,2025-09-29,DR-641062,Dolo 650,Paracetamol,650mg,8UW911OB,3,34.32,18,121.49,False
+TRAIN-0018,output\train\TRAIN-0018.pdf,GreenLife Drug House,2025-09-29,DR-641062,Cetcip,Cetirizine,10mg,H5YZKLL1,3,391.40,5,1232.91,False
+TRAIN-0019,output\train\TRAIN-0019.pdf,GreenLife Drug House,2025-11-20,DR-439935,Nimesulide DT,Nimesulide,100mg,DPHLU0YO,2,105.42,5,221.38,True
+TRAIN-0019,output\train\TRAIN-0019.pdf,GreenLife Drug House,2025-11-20,DR-439935,Corex,Codeine + CPM,10mg/4mg,1Z22XQHM,2,199.36,12,446.57,True
+TRAIN-0020,output\train\TRAIN-0020.pdf,HealthPlus Medical Store,2025-12-09,DR-398624,Oflox-OZ,Ofloxacin + Ornidazole,200/500mg,CCIP7ATK,2,35.80,12,80.19,False
+TRAIN-0020,output\train\TRAIN-0020.pdf,HealthPlus Medical Store,2025-12-09,DR-398624,Corex,Codeine + CPM,10mg/4mg,OBU0DX43,2,132.61,5,278.48,True
+TRAIN-0021,output\train\TRAIN-0021.pdf,WellCare Medicals,2025-11-01,DR-833985,Dolo 650,Paracetamol,650mg,FWD99ULE,3,234.93,12,789.36,False
+TRAIN-0021,output\train\TRAIN-0021.pdf,WellCare Medicals,2025-11-01,DR-833985,Corex,Codeine + CPM,10mg/4mg,GJPX9Y1D,1,41.85,12,46.87,True
+TRAIN-0021,output\train\TRAIN-0021.pdf,WellCare Medicals,2025-11-01,DR-833985,Nimesulide DT,Nimesulide,100mg,BEHFK950,3,269.79,5,849.84,True
+TRAIN-0022,output\train\TRAIN-0022.pdf,WellCare Medicals,2025-08-17,DR-596312,Nimesulide DT,Nimesulide,100mg,OZB8FY3D,2,276.94,18,653.58,True
+TRAIN-0022,output\train\TRAIN-0022.pdf,WellCare Medicals,2025-08-17,DR-596312,Oflox-OZ,Ofloxacin + Ornidazole,200/500mg,7SKSFQLH,2,66.09,5,138.79,False
+TRAIN-0022,output\train\TRAIN-0022.pdf,WellCare Medicals,2025-08-17,DR-596312,Cefixime 200,Cefixime,200mg,4WTFHG2J,2,239.55,12,536.59,False
+TRAIN-0022,output\train\TRAIN-0022.pdf,WellCare Medicals,2025-08-17,DR-596312,Oflox-OZ,Ofloxacin + Ornidazole,200/500mg,EU7GO2XU,3,103.07,18,364.87,False
+TRAIN-0023,output\train\TRAIN-0023.pdf,HealthPlus Medical Store,2025-06-21,DR-415798,Dolo 650,Paracetamol,650mg,5G21GM5P,3,67.05,12,225.29,False
+TRAIN-0023,output\train\TRAIN-0023.pdf,HealthPlus Medical Store,2025-06-21,DR-415798,Dolo 650,Paracetamol,650mg,W5AKCFNX,3,67.12,12,225.52,False
+TRAIN-0023,output\train\TRAIN-0023.pdf,HealthPlus Medical Store,2025-06-21,DR-415798,Cetcip,Cetirizine,10mg,4OIBS0AW,2,103.27,5,216.87,False
+TRAIN-0023,output\train\TRAIN-0023.pdf,HealthPlus Medical Store,2025-06-21,DR-415798,Cetcip,Cetirizine,10mg,A5SWS9HW,3,43.36,12,145.69,False
+TRAIN-0024,output\train\TRAIN-0024.pdf,CityMed Pharmacy,2025-01-09,DR-364944,Corex,Codeine + CPM,10mg/4mg,4KQUTS1K,3,277.62,18,982.77,True
+TRAIN-0024,output\train\TRAIN-0024.pdf,CityMed Pharmacy,2025-01-09,DR-364944,Analgin,Metamizole,500mg,NGLGBJ21,1,30.66,12,34.34,True
+TRAIN-0024,output\train\TRAIN-0024.pdf,CityMed Pharmacy,2025-01-09,DR-364944,Dolo 650,Paracetamol,650mg,MC1Q71KV,1,142.51,12,159.61,False
+TRAIN-0024,output\train\TRAIN-0024.pdf,CityMed Pharmacy,2025-01-09,DR-364944,Saridon,Paracetamol Combo,250/150/50mg,L75NH4VY,1,348.04,5,365.44,True
+TRAIN-0025,output\train\TRAIN-0025.pdf,CityMed Pharmacy,2025-03-04,DR-806943,Cetcip,Cetirizine,10mg,L4UCJF2M,1,71.11,18,83.91,False
+TRAIN-0025,output\train\TRAIN-0025.pdf,CityMed Pharmacy,2025-03-04,DR-806943,Cetcip,Cetirizine,10mg,V8KOAUIZ,3,300.36,18,1063.27,False
+TRAIN-0026,output\train\TRAIN-0026.pdf,CityMed Pharmacy,2025-03-22,DR-102301,Cetcip,Cetirizine,10mg,LEW11MOE,1,257.72,5,270.61,False
+TRAIN-0026,output\train\TRAIN-0026.pdf,CityMed Pharmacy,2025-03-22,DR-102301,Amoxyclav,Amoxicillin + Clavulanic Acid,500/125mg,RPBJEKEC,1,310.33,5,325.85,False
+TRAIN-0027,output\train\TRAIN-0027.pdf,CityMed Pharmacy,2025-02-09,DR-335673,Corex,Codeine + CPM,10mg/4mg,WX0ROOCV,3,211.10,12,709.30,True
+TRAIN-0027,output\train\TRAIN-0027.pdf,CityMed Pharmacy,2025-02-09,DR-335673,Corex,Codeine + CPM,10mg/4mg,YU239IF5,2,306.41,18,723.13,True
+TRAIN-0027,output\train\TRAIN-0027.pdf,CityMed Pharmacy,2025-02-09,DR-335673,Analgin,Metamizole,500mg,6EJ1B56K,2,83.60,18,197.30,True
+TRAIN-0027,output\train\TRAIN-0027.pdf,CityMed Pharmacy,2025-02-09,DR-335673,Nimesulide DT,Nimesulide,100mg,NL3NATSN,3,63.83,18,225.96,True
+TRAIN-0028,output\train\TRAIN-0028.pdf,GreenLife Drug House,2025-08-22,DR-461808,Corex,Codeine + CPM,10mg/4mg,RLKS9DJA,1,255.24,12,285.87,True
+TRAIN-0028,output\train\TRAIN-0028.pdf,GreenLife Drug House,2025-08-22,DR-461808,Cefixime 200,Cefixime,200mg,1YM0JFQD,1,242.22,12,271.29,False
+TRAIN-0029,output\train\TRAIN-0029.pdf,GreenLife Drug House,2025-12-03,DR-997756,Cetcip,Cetirizine,10mg,81I00FUY,3,191.61,5,603.57,False
+TRAIN-0029,output\train\TRAIN-0029.pdf,GreenLife Drug House,2025-12-03,DR-997756,Analgin,Metamizole,500mg,XGZ4FH6H,1,380.10,12,425.71,True
+TRAIN-0029,output\train\TRAIN-0029.pdf,GreenLife Drug House,2025-12-03,DR-997756,Saridon,Paracetamol Combo,250/150/50mg,F0JV7XGG,1,51.48,12,57.66,True
+TRAIN-0029,output\train\TRAIN-0029.pdf,GreenLife Drug House,2025-12-03,DR-997756,Nimesulide DT,Nimesulide,100mg,FYYKJ39T,1,362.58,18,427.84,True
+TRAIN-0030,output\train\TRAIN-0030.pdf,HealthPlus Medical Store,2025-08-16,DR-973381,Cetcip,Cetirizine,10mg,CMNLQUQL,1,169.52,12,189.86,False
+TRAIN-0030,output\train\TRAIN-0030.pdf,HealthPlus Medical Store,2025-08-16,DR-973381,Oflox-OZ,Ofloxacin + Ornidazole,200/500mg,V2PY4NFJ,2,137.49,5,288.73,False
+TRAIN-0030,output\train\TRAIN-0030.pdf,HealthPlus Medical Store,2025-08-16,DR-973381,Azithral 500,Azithromycin,500mg,ZVDPC6D7,1,32.82,5,34.46,False
+TRAIN-0031,output\train\TRAIN-0031.pdf,HealthPlus Medical Store,2025-09-30,DR-255152,Analgin,Metamizole,500mg,AJNI96VE,2,55.02,18,129.85,True
+TRAIN-0031,output\train\TRAIN-0031.pdf,HealthPlus Medical Store,2025-09-30,DR-255152,Saridon,Paracetamol Combo,250/150/50mg,HH3OXG4W,3,173.11,5,545.30,True
+TRAIN-0032,output\train\TRAIN-0032.pdf,WellCare Medicals,2025-04-23,DR-324179,Saridon,Paracetamol Combo,250/150/50mg,8QR2GWHC,2,345.44,12,773.79,True
+TRAIN-0032,output\train\TRAIN-0032.pdf,WellCare Medicals,2025-04-23,DR-324179,Dolo 650,Paracetamol,650mg,VGRBZ32X,1,392.50,18,463.15,False
+TRAIN-0033,output\train\TRAIN-0033.pdf,CityMed Pharmacy,2025-04-14,DR-059727,Oflox-OZ,Ofloxacin + Ornidazole,200/500mg,BCDZ0UWB,3,292.30,18,1034.74,False
+TRAIN-0033,output\train\TRAIN-0033.pdf,CityMed Pharmacy,2025-04-14,DR-059727,Azithral 500,Azithromycin,500mg,U8XF3HCV,3,94.44,18,334.32,False
+TRAIN-0034,output\train\TRAIN-0034.pdf,TrustCare Pharma,2025-08-04,DR-688884,Dolo 650,Paracetamol,650mg,IJQNRPN2,1,68.11,12,76.28,False
+TRAIN-0034,output\train\TRAIN-0034.pdf,TrustCare Pharma,2025-08-04,DR-688884,Cetcip,Cetirizine,10mg,TULP378R,2,166.81,18,393.67,False
+TRAIN-0034,output\train\TRAIN-0034.pdf,TrustCare Pharma,2025-08-04,DR-688884,Corex,Codeine + CPM,10mg/4mg,PAWW6D5C,3,67.18,12,225.72,True
+TRAIN-0035,output\train\TRAIN-0035.pdf,HealthPlus Medical Store,2025-08-03,DR-779083,Cetcip,Cetirizine,10mg,Y1FQWXAU,2,122.41,12,274.20,False
+TRAIN-0035,output\train\TRAIN-0035.pdf,HealthPlus Medical Store,2025-08-03,DR-779083,Oflox-OZ,Ofloxacin + Ornidazole,200/500mg,1BBIK6P0,2,261.71,18,617.64,False
+TRAIN-0035,output\train\TRAIN-0035.pdf,HealthPlus Medical Store,2025-08-03,DR-779083,Nimesulide DT,Nimesulide,100mg,VZGY4VJ2,2,360.75,18,851.37,True
+TRAIN-0036,output\train\TRAIN-0036.pdf,GreenLife Drug House,2025-08-08,DR-538951,Amoxyclav,Amoxicillin + Clavulanic Acid,500/125mg,KTLQS0MR,2,138.57,5,291.00,False
+TRAIN-0036,output\train\TRAIN-0036.pdf,GreenLife Drug House,2025-08-08,DR-538951,Azithral 500,Azithromycin,500mg,UQTUBLJ9,1,188.13,5,197.54,False
+TRAIN-0036,output\train\TRAIN-0036.pdf,GreenLife Drug House,2025-08-08,DR-538951,Saridon,Paracetamol Combo,250/150/50mg,LHJFX4BU,3,124.12,18,439.38,True
+TRAIN-0037,output\train\TRAIN-0037.pdf,WellCare Medicals,2025-06-10,DR-699441,Analgin,Metamizole,500mg,2CAQYCHA,2,232.39,18,548.44,True
+TRAIN-0037,output\train\TRAIN-0037.pdf,WellCare Medicals,2025-06-10,DR-699441,Cetcip,Cetirizine,10mg,8TJETNNC,3,377.72,12,1269.14,False
+TRAIN-0038,output\train\TRAIN-0038.pdf,CityMed Pharmacy,2025-08-05,DR-910533,Amoxyclav,Amoxicillin + Clavulanic Acid,500/125mg,JU9FDICF,3,114.54,5,360.80,False
+TRAIN-0038,output\train\TRAIN-0038.pdf,CityMed Pharmacy,2025-08-05,DR-910533,Analgin,Metamizole,500mg,YCRDN2N3,1,361.47,5,379.54,True
+TRAIN-0038,output\train\TRAIN-0038.pdf,CityMed Pharmacy,2025-08-05,DR-910533,Saridon,Paracetamol Combo,250/150/50mg,UW0BL3G2,3,261.77,5,824.58,True
+TRAIN-0038,output\train\TRAIN-0038.pdf,CityMed Pharmacy,2025-08-05,DR-910533,Amoxyclav,Amoxicillin + Clavulanic Acid,500/125mg,BDZ0FNFS,1,139.98,12,156.78,False
+TRAIN-0039,output\train\TRAIN-0039.pdf,CityMed Pharmacy,2025-11-15,DR-315745,Corex,Codeine + CPM,10mg/4mg,C25EZYWQ,1,214.67,12,240.43,True
+TRAIN-0039,output\train\TRAIN-0039.pdf,CityMed Pharmacy,2025-11-15,DR-315745,Cefixime 200,Cefixime,200mg,GYU2FIKF,1,222.40,12,249.09,False
+TRAIN-0039,output\train\TRAIN-0039.pdf,CityMed Pharmacy,2025-11-15,DR-315745,Saridon,Paracetamol Combo,250/150/50mg,6EH3XJIC,3,288.01,5,907.23,True
+TRAIN-0039,output\train\TRAIN-0039.pdf,CityMed Pharmacy,2025-11-15,DR-315745,Azithral 500,Azithromycin,500mg,GA8BPHHX,1,196.36,18,231.70,False
+TRAIN-0040,output\train\TRAIN-0040.pdf,CityMed Pharmacy,2025-01-25,DR-452697,Nimesulide DT,Nimesulide,100mg,MJ3HOSF2,2,113.36,18,267.53,True
+TRAIN-0040,output\train\TRAIN-0040.pdf,CityMed Pharmacy,2025-01-25,DR-452697,Dolo 650,Paracetamol,650mg,RL6Y3C73,1,45.50,5,47.77,False
+TRAIN-0041,output\train\TRAIN-0041.pdf,WellCare Medicals,2025-09-19,DR-322268,Amoxyclav,Amoxicillin + Clavulanic Acid,500/125mg,6R16DVUI,2,326.21,18,769.86,False
+TRAIN-0041,output\train\TRAIN-0041.pdf,WellCare Medicals,2025-09-19,DR-322268,Corex,Codeine + CPM,10mg/4mg,WV5WYA97,1,293.79,18,346.67,True
+TRAIN-0041,output\train\TRAIN-0041.pdf,WellCare Medicals,2025-09-19,DR-322268,Amoxyclav,Amoxicillin + Clavulanic Acid,500/125mg,51UTAHJ3,3,141.63,5,446.13,False
+TRAIN-0042,output\train\TRAIN-0042.pdf,TrustCare Pharma,2025-09-15,DR-048055,Analgin,Metamizole,500mg,Q1NB1RLN,1,40.56,12,45.43,True
+TRAIN-0042,output\train\TRAIN-0042.pdf,TrustCare Pharma,2025-09-15,DR-048055,Analgin,Metamizole,500mg,DCIMST9S,2,240.03,12,537.67,True
+TRAIN-0042,output\train\TRAIN-0042.pdf,TrustCare Pharma,2025-09-15,DR-048055,Corex,Codeine + CPM,10mg/4mg,H13HTCXP,1,370.95,18,437.72,True
+TRAIN-0042,output\train\TRAIN-0042.pdf,TrustCare Pharma,2025-09-15,DR-048055,Cetcip,Cetirizine,10mg,18TORX2X,2,397.15,12,889.62,False
+TRAIN-0043,output\train\TRAIN-0043.pdf,WellCare Medicals,2025-11-14,DR-213505,Saridon,Paracetamol Combo,250/150/50mg,QYLVGWR6,2,125.91,18,297.15,True
+TRAIN-0043,output\train\TRAIN-0043.pdf,WellCare Medicals,2025-11-14,DR-213505,Analgin,Metamizole,500mg,02GJRZ7U,2,332.96,5,699.22,True
+TRAIN-0043,output\train\TRAIN-0043.pdf,WellCare Medicals,2025-11-14,DR-213505,Dolo 650,Paracetamol,650mg,DNPMBE7C,2,65.50,12,146.72,False
+TRAIN-0044,output\train\TRAIN-0044.pdf,TrustCare Pharma,2025-09-15,DR-284527,Oflox-OZ,Ofloxacin + Ornidazole,200/500mg,NBOQFSOJ,2,346.72,12,776.65,False
+TRAIN-0044,output\train\TRAIN-0044.pdf,TrustCare Pharma,2025-09-15,DR-284527,Saridon,Paracetamol Combo,250/150/50mg,LRXI5WPU,1,103.96,5,109.16,True
+TRAIN-0044,output\train\TRAIN-0044.pdf,TrustCare Pharma,2025-09-15,DR-284527,Analgin,Metamizole,500mg,BLKT89BC,2,289.00,18,682.04,True
+TRAIN-0044,output\train\TRAIN-0044.pdf,TrustCare Pharma,2025-09-15,DR-284527,Analgin,Metamizole,500mg,BRQ17UC4,2,58.64,5,123.14,True
+TRAIN-0045,output\train\TRAIN-0045.pdf,TrustCare Pharma,2025-03-21,DR-241452,Azithral 500,Azithromycin,500mg,7UT9YM7T,3,42.90,18,151.87,False
+TRAIN-0045,output\train\TRAIN-0045.pdf,TrustCare Pharma,2025-03-21,DR-241452,Corex,Codeine + CPM,10mg/4mg,LOM1K3QW,1,200.43,5,210.45,True
+TRAIN-0045,output\train\TRAIN-0045.pdf,TrustCare Pharma,2025-03-21,DR-241452,Azithral 500,Azithromycin,500mg,FP0X06OE,2,385.23,18,909.14,False
+TRAIN-0045,output\train\TRAIN-0045.pdf,TrustCare Pharma,2025-03-21,DR-241452,Azithral 500,Azithromycin,500mg,N6FMVZCR,2,126.56,12,283.49,False
+TRAIN-0046,output\train\TRAIN-0046.pdf,GreenLife Drug House,2025-06-12,DR-533480,Analgin,Metamizole,500mg,H7NPQQII,3,164.48,5,518.11,True
+TRAIN-0046,output\train\TRAIN-0046.pdf,GreenLife Drug House,2025-06-12,DR-533480,Cetcip,Cetirizine,10mg,WAJIT1N4,2,390.70,18,922.05,False
+TRAIN-0046,output\train\TRAIN-0046.pdf,GreenLife Drug House,2025-06-12,DR-533480,Dolo 650,Paracetamol,650mg,VAFWF2XV,3,170.52,12,572.95,False
+TRAIN-0046,output\train\TRAIN-0046.pdf,GreenLife Drug House,2025-06-12,DR-533480,Corex,Codeine + CPM,10mg/4mg,ZMAT8QKH,2,220.98,12,495.00,True
+TRAIN-0047,output\train\TRAIN-0047.pdf,GreenLife Drug House,2025-01-20,DR-146687,Amoxyclav,Amoxicillin + Clavulanic Acid,500/125mg,1752O0B8,2,128.68,5,270.23,False
+TRAIN-0047,output\train\TRAIN-0047.pdf,GreenLife Drug House,2025-01-20,DR-146687,Azithral 500,Azithromycin,500mg,OPVXSJUT,1,62.51,18,73.76,False
+TRAIN-0047,output\train\TRAIN-0047.pdf,GreenLife Drug House,2025-01-20,DR-146687,Amoxyclav,Amoxicillin + Clavulanic Acid,500/125mg,25N18ERY,3,43.85,12,147.34,False
+TRAIN-0048,output\train\TRAIN-0048.pdf,GreenLife Drug House,2025-04-19,DR-144624,Analgin,Metamizole,500mg,QZNKBLAS,3,89.20,12,299.71,True
+TRAIN-0048,output\train\TRAIN-0048.pdf,GreenLife Drug House,2025-04-19,DR-144624,Analgin,Metamizole,500mg,A96EF4NO,3,295.35,5,930.35,True
+TRAIN-0048,output\train\TRAIN-0048.pdf,GreenLife Drug House,2025-04-19,DR-144624,Dolo 650,Paracetamol,650mg,76P2RUSD,2,334.39,12,749.03,False
+TRAIN-0048,output\train\TRAIN-0048.pdf,GreenLife Drug House,2025-04-19,DR-144624,Cefixime 200,Cefixime,200mg,FNB4KX6H,2,307.93,18,726.71,False
+TRAIN-0049,output\train\TRAIN-0049.pdf,HealthPlus Medical Store,2025-05-22,DR-883877,Cetcip,Cetirizine,10mg,OFJZL75A,2,376.80,5,791.28,False
+TRAIN-0049,output\train\TRAIN-0049.pdf,HealthPlus Medical Store,2025-05-22,DR-883877,Analgin,Metamizole,500mg,TB1MUXIC,1,228.28,18,269.37,True
+TRAIN-0049,output\train\TRAIN-0049.pdf,HealthPlus Medical Store,2025-05-22,DR-883877,Nimesulide DT,Nimesulide,100mg,CNHTCHHE,1,367.28,5,385.64,True
+TRAIN-0050,output\train\TRAIN-0050.pdf,HealthPlus Medical Store,2025-08-02,DR-428887,Oflox-OZ,Ofloxacin + Ornidazole,200/500mg,KPNAJPG9,3,125.59,18,444.59,False
+TRAIN-0050,output\train\TRAIN-0050.pdf,HealthPlus Medical Store,2025-08-02,DR-428887,Dolo 650,Paracetamol,650mg,OE294VNC,3,388.58,5,1224.03,False
+TRAIN-0050,output\train\TRAIN-0050.pdf,HealthPlus Medical Store,2025-08-02,DR-428887,Cetcip,Cetirizine,10mg,CFZWWIVA,1,240.97,5,253.02,False
+TRAIN-0051,output\train\TRAIN-0051.pdf,GreenLife Drug House,2025-10-01,DR-276745,Nimesulide DT,Nimesulide,100mg,0PJNFWMG,3,153.37,5,483.12,True
+TRAIN-0051,output\train\TRAIN-0051.pdf,GreenLife Drug House,2025-10-01,DR-276745,Cetcip,Cetirizine,10mg,AA576KCC,1,76.37,18,90.12,False
+TRAIN-0051,output\train\TRAIN-0051.pdf,GreenLife Drug House,2025-10-01,DR-276745,Analgin,Metamizole,500mg,7CUH2N2X,3,225.59,18,798.59,True
+TRAIN-0051,output\train\TRAIN-0051.pdf,GreenLife Drug House,2025-10-01,DR-276745,Corex,Codeine + CPM,10mg/4mg,FPACN9CI,3,193.22,18,684.00,True
+TRAIN-0052,output\train\TRAIN-0052.pdf,WellCare Medicals,2025-01-22,DR-066642,Cetcip,Cetirizine,10mg,AMR2W6L7,1,266.82,18,314.85,False
+TRAIN-0052,output\train\TRAIN-0052.pdf,WellCare Medicals,2025-01-22,DR-066642,Azithral 500,Azithromycin,500mg,N85KPPZR,1,198.22,12,222.01,False
+TRAIN-0052,output\train\TRAIN-0052.pdf,WellCare Medicals,2025-01-22,DR-066642,Nimesulide DT,Nimesulide,100mg,6MJOJAG7,3,321.76,12,1081.11,True
+TRAIN-0053,output\train\TRAIN-0053.pdf,GreenLife Drug House,2025-10-25,DR-815635,Oflox-OZ,Ofloxacin + Ornidazole,200/500mg,LJPQG8G9,2,211.52,5,444.19,False
+TRAIN-0053,output\train\TRAIN-0053.pdf,GreenLife Drug House,2025-10-25,DR-815635,Saridon,Paracetamol Combo,250/150/50mg,3ONKAMPG,1,379.49,12,425.03,True
+TRAIN-0053,output\train\TRAIN-0053.pdf,GreenLife Drug House,2025-10-25,DR-815635,Cetcip,Cetirizine,10mg,WNBKAFU3,2,262.53,12,588.07,False
+TRAIN-0054,output\train\TRAIN-0054.pdf,HealthPlus Medical Store,2025-05-27,DR-549219,Amoxyclav,Amoxicillin + Clavulanic Acid,500/125mg,WCDFUR4D,1,164.57,12,184.32,False
+TRAIN-0054,output\train\TRAIN-0054.pdf,HealthPlus Medical Store,2025-05-27,DR-549219,Azithral 500,Azithromycin,500mg,7899ISY6,1,339.52,18,400.63,False
+TRAIN-0054,output\train\TRAIN-0054.pdf,HealthPlus Medical Store,2025-05-27,DR-549219,Oflox-OZ,Ofloxacin + Ornidazole,200/500mg,XV8RLJ6S,1,321.91,12,360.54,False
+TRAIN-0055,output\train\TRAIN-0055.pdf,GreenLife Drug House,2025-05-24,DR-956757,Cetcip,Cetirizine,10mg,UK25N1CL,1,97.92,12,109.67,False
+TRAIN-0055,output\train\TRAIN-0055.pdf,GreenLife Drug House,2025-05-24,DR-956757,Cetcip,Cetirizine,10mg,56S007AI,2,326.14,18,769.69,False
+TRAIN-0056,output\train\TRAIN-0056.pdf,TrustCare Pharma,2025-10-11,DR-625036,Analgin,Metamizole,500mg,KH54NT69,2,269.20,5,565.32,True
+TRAIN-0056,output\train\TRAIN-0056.pdf,TrustCare Pharma,2025-10-11,DR-625036,Oflox-OZ,Ofloxacin + Ornidazole,200/500mg,EM7LC3Y4,1,47.97,5,50.37,False
+TRAIN-0056,output\train\TRAIN-0056.pdf,TrustCare Pharma,2025-10-11,DR-625036,Amoxyclav,Amoxicillin + Clavulanic Acid,500/125mg,JE38PTVF,3,205.34,5,646.82,False
+TRAIN-0057,output\train\TRAIN-0057.pdf,WellCare Medicals,2025-06-12,DR-813273,Oflox-OZ,Ofloxacin + Ornidazole,200/500mg,XFAFZLFH,1,147.30,5,154.67,False
+TRAIN-0057,output\train\TRAIN-0057.pdf,WellCare Medicals,2025-06-12,DR-813273,Oflox-OZ,Ofloxacin + Ornidazole,200/500mg,0QFLBF32,3,332.12,12,1115.92,False
+TRAIN-0058,output\train\TRAIN-0058.pdf,HealthPlus Medical Store,2025-09-19,DR-842260,Saridon,Paracetamol Combo,250/150/50mg,7Z8JOS9X,3,156.37,12,525.40,True
+TRAIN-0058,output\train\TRAIN-0058.pdf,HealthPlus Medical Store,2025-09-19,DR-842260,Nimesulide DT,Nimesulide,100mg,R00L3R79,2,292.88,18,691.20,True
+TRAIN-0059,output\train\TRAIN-0059.pdf,GreenLife Drug House,2025-09-16,DR-254855,Analgin,Metamizole,500mg,JD0FNL95,1,172.00,18,202.96,True
+TRAIN-0059,output\train\TRAIN-0059.pdf,GreenLife Drug House,2025-09-16,DR-254855,Saridon,Paracetamol Combo,250/150/50mg,Q2PF0C37,3,40.75,5,128.36,True
+TRAIN-0059,output\train\TRAIN-0059.pdf,GreenLife Drug House,2025-09-16,DR-254855,Cetcip,Cetirizine,10mg,WGG5R88Q,1,120.44,18,142.12,False
+TRAIN-0059,output\train\TRAIN-0059.pdf,GreenLife Drug House,2025-09-16,DR-254855,Corex,Codeine + CPM,10mg/4mg,M2BN65B1,3,234.83,12,789.03,True
+TRAIN-0060,output\train\TRAIN-0060.pdf,WellCare Medicals,2025-08-05,DR-127514,Cefixime 200,Cefixime,200mg,JMUKEJ21,1,380.82,12,426.52,False
+TRAIN-0060,output\train\TRAIN-0060.pdf,WellCare Medicals,2025-08-05,DR-127514,Amoxyclav,Amoxicillin + Clavulanic Acid,500/125mg,MIFV2XFK,3,287.96,5,907.07,False
+TRAIN-0061,output\train\TRAIN-0061.pdf,GreenLife Drug House,2025-09-04,DR-026052,Azithral 500,Azithromycin,500mg,2CQQFSAC,3,191.25,18,677.02,False
+TRAIN-0061,output\train\TRAIN-0061.pdf,GreenLife Drug House,2025-09-04,DR-026052,Amoxyclav,Amoxicillin + Clavulanic Acid,500/125mg,NSVXV6NW,3,193.00,12,648.48,False
+TRAIN-0061,output\train\TRAIN-0061.pdf,GreenLife Drug House,2025-09-04,DR-026052,Analgin,Metamizole,500mg,ZGJ8WWRZ,1,261.43,18,308.49,True
+TRAIN-0061,output\train\TRAIN-0061.pdf,GreenLife Drug House,2025-09-04,DR-026052,Cetcip,Cetirizine,10mg,7XG3CIJC,2,231.35,5,485.83,False
+TRAIN-0062,output\train\TRAIN-0062.pdf,CityMed Pharmacy,2025-07-30,DR-302592,Corex,Codeine + CPM,10mg/4mg,XSIAEQU6,3,155.73,5,490.55,True
+TRAIN-0062,output\train\TRAIN-0062.pdf,CityMed Pharmacy,2025-07-30,DR-302592,Corex,Codeine + CPM,10mg/4mg,17LLJ0XE,1,143.01,12,160.17,True
+TRAIN-0063,output\train\TRAIN-0063.pdf,TrustCare Pharma,2025-03-10,DR-513685,Dolo 650,Paracetamol,650mg,4G71BVSP,1,254.79,12,285.36,False
+TRAIN-0063,output\train\TRAIN-0063.pdf,TrustCare Pharma,2025-03-10,DR-513685,Dolo 650,Paracetamol,650mg,HILEN3YU,3,98.26,5,309.52,False
+TRAIN-0063,output\train\TRAIN-0063.pdf,TrustCare Pharma,2025-03-10,DR-513685,Amoxyclav,Amoxicillin + Clavulanic Acid,500/125mg,9TMJ4GAJ,1,344.96,12,386.36,False
+TRAIN-0064,output\train\TRAIN-0064.pdf,HealthPlus Medical Store,2024-12-18,DR-183981,Dolo 650,Paracetamol,650mg,3ME10GFB,3,301.69,12,1013.68,False
+TRAIN-0064,output\train\TRAIN-0064.pdf,HealthPlus Medical Store,2024-12-18,DR-183981,Saridon,Paracetamol Combo,250/150/50mg,JTI5O25F,1,43.94,5,46.14,True
+TRAIN-0064,output\train\TRAIN-0064.pdf,HealthPlus Medical Store,2024-12-18,DR-183981,Cetcip,Cetirizine,10mg,ARZETCDG,3,255.58,5,805.08,False
+TRAIN-0065,output\train\TRAIN-0065.pdf,TrustCare Pharma,2025-12-03,DR-808578,Analgin,Metamizole,500mg,MFC22GUG,3,44.43,5,139.95,True
+TRAIN-0065,output\train\TRAIN-0065.pdf,TrustCare Pharma,2025-12-03,DR-808578,Analgin,Metamizole,500mg,7PZFTUSU,1,367.04,5,385.39,True
+TRAIN-0065,output\train\TRAIN-0065.pdf,TrustCare Pharma,2025-12-03,DR-808578,Oflox-OZ,Ofloxacin + Ornidazole,200/500mg,VIBGUIK7,1,190.95,5,200.50,False
+TRAIN-0065,output\train\TRAIN-0065.pdf,TrustCare Pharma,2025-12-03,DR-808578,Saridon,Paracetamol Combo,250/150/50mg,B6G6MY4R,2,374.96,12,839.91,True
+TRAIN-0066,output\train\TRAIN-0066.pdf,GreenLife Drug House,2025-07-16,DR-658436,Azithral 500,Azithromycin,500mg,ASU8DTSX,2,393.96,18,929.75,False
+TRAIN-0066,output\train\TRAIN-0066.pdf,GreenLife Drug House,2025-07-16,DR-658436,Cefixime 200,Cefixime,200mg,VGMSKR1Y,1,354.42,5,372.14,False
+TRAIN-0067,output\train\TRAIN-0067.pdf,GreenLife Drug House,2025-09-15,DR-388189,Azithral 500,Azithromycin,500mg,MEVN2KXM,2,191.29,5,401.71,False
+TRAIN-0067,output\train\TRAIN-0067.pdf,GreenLife Drug House,2025-09-15,DR-388189,Oflox-OZ,Ofloxacin + Ornidazole,200/500mg,R62BJ5B5,1,219.63,18,259.16,False
+TRAIN-0068,output\train\TRAIN-0068.pdf,HealthPlus Medical Store,2025-02-28,DR-360822,Amoxyclav,Amoxicillin + Clavulanic Acid,500/125mg,OLG0CS62,1,169.68,12,190.04,False
+TRAIN-0068,output\train\TRAIN-0068.pdf,HealthPlus Medical Store,2025-02-28,DR-360822,Nimesulide DT,Nimesulide,100mg,MZGPS2S4,3,101.40,18,358.96,True
+TRAIN-0069,output\train\TRAIN-0069.pdf,CityMed Pharmacy,2025-01-11,DR-196504,Corex,Codeine + CPM,10mg/4mg,07WCRO75,2,198.03,5,415.86,True
+TRAIN-0069,output\train\TRAIN-0069.pdf,CityMed Pharmacy,2025-01-11,DR-196504,Cefixime 200,Cefixime,200mg,MQOQ692O,3,152.01,12,510.75,False
+TRAIN-0069,output\train\TRAIN-0069.pdf,CityMed Pharmacy,2025-01-11,DR-196504,Cefixime 200,Cefixime,200mg,UE5U8B3L,2,30.14,5,63.29,False
+TRAIN-0070,output\train\TRAIN-0070.pdf,HealthPlus Medical Store,2025-03-10,DR-675552,Oflox-OZ,Ofloxacin + Ornidazole,200/500mg,JI0ZAKGS,3,277.57,5,874.35,False
+TRAIN-0070,output\train\TRAIN-0070.pdf,HealthPlus Medical Store,2025-03-10,DR-675552,Corex,Codeine + CPM,10mg/4mg,KWT2TJW3,2,335.21,5,703.94,True
+TRAIN-0070,output\train\TRAIN-0070.pdf,HealthPlus Medical Store,2025-03-10,DR-675552,Cetcip,Cetirizine,10mg,RLGGJ94G,3,377.82,18,1337.48,False
+TRAIN-0071,output\train\TRAIN-0071.pdf,TrustCare Pharma,2025-08-19,DR-022406,Dolo 650,Paracetamol,650mg,6RNYPH0R,3,41.62,18,147.33,False
+TRAIN-0071,output\train\TRAIN-0071.pdf,TrustCare Pharma,2025-08-19,DR-022406,Cefixime 200,Cefixime,200mg,JHHS69R0,3,374.02,18,1324.03,False
+TRAIN-0071,output\train\TRAIN-0071.pdf,TrustCare Pharma,2025-08-19,DR-022406,Amoxyclav,Amoxicillin + Clavulanic Acid,500/125mg,4ZH7ODV6,1,359.22,18,423.88,False
+TRAIN-0072,output\train\TRAIN-0072.pdf,HealthPlus Medical Store,2025-05-03,DR-164471,Oflox-OZ,Ofloxacin + Ornidazole,200/500mg,4L6T8PEJ,2,242.74,5,509.75,False
+TRAIN-0072,output\train\TRAIN-0072.pdf,HealthPlus Medical Store,2025-05-03,DR-164471,Cefixime 200,Cefixime,200mg,A1F0AEMF,2,114.61,5,240.68,False
+TRAIN-0072,output\train\TRAIN-0072.pdf,HealthPlus Medical Store,2025-05-03,DR-164471,Corex,Codeine + CPM,10mg/4mg,4ZC1E35Y,1,271.67,12,304.27,True
+TRAIN-0072,output\train\TRAIN-0072.pdf,HealthPlus Medical Store,2025-05-03,DR-164471,Cetcip,Cetirizine,10mg,PBP2GQ30,3,342.16,12,1149.66,False
+TRAIN-0073,output\train\TRAIN-0073.pdf,GreenLife Drug House,2025-01-26,DR-509232,Nimesulide DT,Nimesulide,100mg,PNWH126L,2,350.41,5,735.86,True
+TRAIN-0073,output\train\TRAIN-0073.pdf,GreenLife Drug House,2025-01-26,DR-509232,Cetcip,Cetirizine,10mg,B4LX2J9E,3,319.47,5,1006.33,False
+TRAIN-0073,output\train\TRAIN-0073.pdf,GreenLife Drug House,2025-01-26,DR-509232,Nimesulide DT,Nimesulide,100mg,LDEEZUUN,3,337.04,5,1061.68,True
+TRAIN-0073,output\train\TRAIN-0073.pdf,GreenLife Drug House,2025-01-26,DR-509232,Nimesulide DT,Nimesulide,100mg,UGRXP61C,1,398.18,18,469.85,True
+TRAIN-0074,output\train\TRAIN-0074.pdf,GreenLife Drug House,2025-04-29,DR-736134,Oflox-OZ,Ofloxacin + Ornidazole,200/500mg,IP9WIQFS,3,112.52,12,378.07,False
+TRAIN-0074,output\train\TRAIN-0074.pdf,GreenLife Drug House,2025-04-29,DR-736134,Cetcip,Cetirizine,10mg,4DQ7WXFJ,2,398.72,12,893.13,False
+TRAIN-0074,output\train\TRAIN-0074.pdf,GreenLife Drug House,2025-04-29,DR-736134,Amoxyclav,Amoxicillin + Clavulanic Acid,500/125mg,BHWYG17S,3,77.77,18,275.31,False
+TRAIN-0074,output\train\TRAIN-0074.pdf,GreenLife Drug House,2025-04-29,DR-736134,Saridon,Paracetamol Combo,250/150/50mg,YJT02Z3Z,2,222.05,18,524.04,True
+TRAIN-0075,output\train\TRAIN-0075.pdf,HealthPlus Medical Store,2025-07-16,DR-275221,Saridon,Paracetamol Combo,250/150/50mg,NAS1VKJV,3,173.50,12,582.96,True
+TRAIN-0075,output\train\TRAIN-0075.pdf,HealthPlus Medical Store,2025-07-16,DR-275221,Cefixime 200,Cefixime,200mg,YYJ7QNO4,1,322.10,12,360.75,False
+TRAIN-0076,output\train\TRAIN-0076.pdf,WellCare Medicals,2025-09-17,DR-237450,Nimesulide DT,Nimesulide,100mg,B9FLB3BK,3,364.00,5,1146.60,True
+TRAIN-0076,output\train\TRAIN-0076.pdf,WellCare Medicals,2025-09-17,DR-237450,Azithral 500,Azithromycin,500mg,H9SOACKH,1,248.91,18,293.71,False
+TRAIN-0076,output\train\TRAIN-0076.pdf,WellCare Medicals,2025-09-17,DR-237450,Amoxyclav,Amoxicillin + Clavulanic Acid,500/125mg,ZIPMA0NZ,2,240.60,18,567.82,False
+TRAIN-0076,output\train\TRAIN-0076.pdf,WellCare Medicals,2025-09-17,DR-237450,Nimesulide DT,Nimesulide,100mg,5WTXMUAZ,2,184.32,12,412.88,True
+TRAIN-0077,output\train\TRAIN-0077.pdf,HealthPlus Medical Store,2025-10-29,DR-334727,Saridon,Paracetamol Combo,250/150/50mg,LI7RI20F,1,284.66,18,335.90,True
+TRAIN-0077,output\train\TRAIN-0077.pdf,HealthPlus Medical Store,2025-10-29,DR-334727,Saridon,Paracetamol Combo,250/150/50mg,N2CARHPP,1,224.41,12,251.34,True
+TRAIN-0077,output\train\TRAIN-0077.pdf,HealthPlus Medical Store,2025-10-29,DR-334727,Oflox-OZ,Ofloxacin + Ornidazole,200/500mg,HE4IQA3D,2,144.66,12,324.04,False
+TRAIN-0078,output\train\TRAIN-0078.pdf,WellCare Medicals,2025-02-13,DR-613201,Corex,Codeine + CPM,10mg/4mg,IF1FDZHE,3,212.83,12,715.11,True
+TRAIN-0078,output\train\TRAIN-0078.pdf,WellCare Medicals,2025-02-13,DR-613201,Nimesulide DT,Nimesulide,100mg,PKC5Y2I3,1,364.75,12,408.52,True
+TRAIN-0078,output\train\TRAIN-0078.pdf,WellCare Medicals,2025-02-13,DR-613201,Saridon,Paracetamol Combo,250/150/50mg,EF0AP8PE,1,235.67,12,263.95,True
+TRAIN-0078,output\train\TRAIN-0078.pdf,WellCare Medicals,2025-02-13,DR-613201,Corex,Codeine + CPM,10mg/4mg,E6WU6JTC,2,103.27,5,216.87,True
+TRAIN-0079,output\train\TRAIN-0079.pdf,TrustCare Pharma,2025-09-09,DR-456511,Cefixime 200,Cefixime,200mg,SOKZWZ3K,2,347.82,5,730.42,False
+TRAIN-0079,output\train\TRAIN-0079.pdf,TrustCare Pharma,2025-09-09,DR-456511,Saridon,Paracetamol Combo,250/150/50mg,T65T0XYW,3,187.74,12,630.81,True
+TRAIN-0079,output\train\TRAIN-0079.pdf,TrustCare Pharma,2025-09-09,DR-456511,Nimesulide DT,Nimesulide,100mg,7JUCAA4U,3,205.35,12,689.98,True
+TRAIN-0080,output\train\TRAIN-0080.pdf,GreenLife Drug House,2025-01-21,DR-291951,Corex,Codeine + CPM,10mg/4mg,AAVII2BA,2,337.10,5,707.91,True
+TRAIN-0080,output\train\TRAIN-0080.pdf,GreenLife Drug House,2025-01-21,DR-291951,Oflox-OZ,Ofloxacin + Ornidazole,200/500mg,TWXZYTFW,3,295.12,18,1044.72,False
+TRAIN-0080,output\train\TRAIN-0080.pdf,GreenLife Drug House,2025-01-21,DR-291951,Dolo 650,Paracetamol,650mg,5VG2WP7P,3,354.68,18,1255.57,False
+TRAIN-0080,output\train\TRAIN-0080.pdf,GreenLife Drug House,2025-01-21,DR-291951,Corex,Codeine + CPM,10mg/4mg,8ALO302Q,2,72.32,12,162.00,True
+TRAIN-0081,output\train\TRAIN-0081.pdf,WellCare Medicals,2025-07-12,DR-522431,Corex,Codeine + CPM,10mg/4mg,R3G97SUH,3,349.41,5,1100.64,True
+TRAIN-0081,output\train\TRAIN-0081.pdf,WellCare Medicals,2025-07-12,DR-522431,Corex,Codeine + CPM,10mg/4mg,DQ8SMRWD,1,268.64,18,317.00,True
+TRAIN-0081,output\train\TRAIN-0081.pdf,WellCare Medicals,2025-07-12,DR-522431,Cetcip,Cetirizine,10mg,34E0SYNA,3,228.71,12,768.47,False
+TRAIN-0082,output\train\TRAIN-0082.pdf,HealthPlus Medical Store,2025-01-29,DR-979953,Saridon,Paracetamol Combo,250/150/50mg,2UH6Y415,3,377.99,5,1190.67,True
+TRAIN-0082,output\train\TRAIN-0082.pdf,HealthPlus Medical Store,2025-01-29,DR-979953,Dolo 650,Paracetamol,650mg,OVMF0482,2,180.93,12,405.28,False
+TRAIN-0082,output\train\TRAIN-0082.pdf,HealthPlus Medical Store,2025-01-29,DR-979953,Saridon,Paracetamol Combo,250/150/50mg,8BYVPWAY,2,377.31,18,890.45,True
+TRAIN-0082,output\train\TRAIN-0082.pdf,HealthPlus Medical Store,2025-01-29,DR-979953,Oflox-OZ,Ofloxacin + Ornidazole,200/500mg,69MMF64E,1,306.68,18,361.88,False
+TRAIN-0083,output\train\TRAIN-0083.pdf,TrustCare Pharma,2025-08-06,DR-111883,Nimesulide DT,Nimesulide,100mg,OXFCAYV8,2,230.03,5,483.06,True
+TRAIN-0083,output\train\TRAIN-0083.pdf,TrustCare Pharma,2025-08-06,DR-111883,Saridon,Paracetamol Combo,250/150/50mg,TOU4UKB5,2,316.34,18,746.56,True
+TRAIN-0084,output\train\TRAIN-0084.pdf,CityMed Pharmacy,2025-11-27,DR-847171,Corex,Codeine + CPM,10mg/4mg,ETOA5QXR,1,390.50,5,410.02,True
+TRAIN-0084,output\train\TRAIN-0084.pdf,CityMed Pharmacy,2025-11-27,DR-847171,Amoxyclav,Amoxicillin + Clavulanic Acid,500/125mg,X4E97TU7,1,288.98,12,323.66,False
+TRAIN-0084,output\train\TRAIN-0084.pdf,CityMed Pharmacy,2025-11-27,DR-847171,Oflox-OZ,Ofloxacin + Ornidazole,200/500mg,IKMB6KPS,1,279.20,12,312.70,False
+TRAIN-0084,output\train\TRAIN-0084.pdf,CityMed Pharmacy,2025-11-27,DR-847171,Saridon,Paracetamol Combo,250/150/50mg,UFM0U5A6,2,180.27,18,425.44,True
+TRAIN-0085,output\train\TRAIN-0085.pdf,TrustCare Pharma,2025-10-08,DR-964947,Corex,Codeine + CPM,10mg/4mg,REC4KGYT,3,118.57,18,419.74,True
+TRAIN-0085,output\train\TRAIN-0085.pdf,TrustCare Pharma,2025-10-08,DR-964947,Nimesulide DT,Nimesulide,100mg,RC4AMHBT,2,66.83,18,157.72,True
+TRAIN-0086,output\train\TRAIN-0086.pdf,GreenLife Drug House,2025-07-18,DR-806050,Azithral 500,Azithromycin,500mg,8C57U6KF,3,328.63,5,1035.18,False
+TRAIN-0086,output\train\TRAIN-0086.pdf,GreenLife Drug House,2025-07-18,DR-806050,Amoxyclav,Amoxicillin + Clavulanic Acid,500/125mg,R6YIW0MH,1,264.13,5,277.34,False
+TRAIN-0086,output\train\TRAIN-0086.pdf,GreenLife Drug House,2025-07-18,DR-806050,Oflox-OZ,Ofloxacin + Ornidazole,200/500mg,SJAWDVEM,1,222.88,12,249.63,False
+TRAIN-0087,output\train\TRAIN-0087.pdf,TrustCare Pharma,2025-11-25,DR-098264,Saridon,Paracetamol Combo,250/150/50mg,EQIL0T42,3,283.78,12,953.50,True
+TRAIN-0087,output\train\TRAIN-0087.pdf,TrustCare Pharma,2025-11-25,DR-098264,Corex,Codeine + CPM,10mg/4mg,Q12C7APA,3,69.05,12,232.01,True
+TRAIN-0088,output\train\TRAIN-0088.pdf,TrustCare Pharma,2025-05-28,DR-535239,Corex,Codeine + CPM,10mg/4mg,D1IWIZXI,2,316.13,5,663.87,True
+TRAIN-0088,output\train\TRAIN-0088.pdf,TrustCare Pharma,2025-05-28,DR-535239,Cefixime 200,Cefixime,200mg,M8H0Q9D9,3,182.27,12,612.43,False
+TRAIN-0089,output\train\TRAIN-0089.pdf,GreenLife Drug House,2025-01-05,DR-111616,Nimesulide DT,Nimesulide,100mg,7TNZP8T4,1,219.20,5,230.16,True
+TRAIN-0089,output\train\TRAIN-0089.pdf,GreenLife Drug House,2025-01-05,DR-111616,Corex,Codeine + CPM,10mg/4mg,LLSMIQUL,3,168.26,18,595.64,True
+TRAIN-0089,output\train\TRAIN-0089.pdf,GreenLife Drug House,2025-01-05,DR-111616,Dolo 650,Paracetamol,650mg,V4G6GHDG,2,90.39,18,213.32,False
+TRAIN-0090,output\train\TRAIN-0090.pdf,GreenLife Drug House,2025-08-22,DR-343190,Saridon,Paracetamol Combo,250/150/50mg,DLZAAJ3B,3,319.15,18,1129.79,True
+TRAIN-0090,output\train\TRAIN-0090.pdf,GreenLife Drug House,2025-08-22,DR-343190,Oflox-OZ,Ofloxacin + Ornidazole,200/500mg,ZS4LZ50C,2,332.47,5,698.19,False
+TRAIN-0090,output\train\TRAIN-0090.pdf,GreenLife Drug House,2025-08-22,DR-343190,Nimesulide DT,Nimesulide,100mg,Q8KU04O8,1,47.95,18,56.58,True
+TRAIN-0090,output\train\TRAIN-0090.pdf,GreenLife Drug House,2025-08-22,DR-343190,Saridon,Paracetamol Combo,250/150/50mg,NOI6ZIRS,3,66.18,18,234.28,True
+TRAIN-0091,output\train\TRAIN-0091.pdf,CityMed Pharmacy,2025-09-07,DR-097561,Corex,Codeine + CPM,10mg/4mg,W1TWLKDX,3,100.18,18,354.64,True
+TRAIN-0091,output\train\TRAIN-0091.pdf,CityMed Pharmacy,2025-09-07,DR-097561,Dolo 650,Paracetamol,650mg,8GSVZ903,3,333.94,12,1122.04,False
+TRAIN-0091,output\train\TRAIN-0091.pdf,CityMed Pharmacy,2025-09-07,DR-097561,Saridon,Paracetamol Combo,250/150/50mg,HLY2HFSX,3,148.29,18,524.95,True
+TRAIN-0091,output\train\TRAIN-0091.pdf,CityMed Pharmacy,2025-09-07,DR-097561,Oflox-OZ,Ofloxacin + Ornidazole,200/500mg,OC9ZYGSC,2,97.71,12,218.87,False
+TRAIN-0092,output\train\TRAIN-0092.pdf,HealthPlus Medical Store,2025-10-03,DR-824661,Corex,Codeine + CPM,10mg/4mg,I53H3JHH,3,143.46,5,451.90,True
+TRAIN-0092,output\train\TRAIN-0092.pdf,HealthPlus Medical Store,2025-10-03,DR-824661,Azithral 500,Azithromycin,500mg,NATUBHG4,3,257.32,18,910.91,False
+TRAIN-0093,output\train\TRAIN-0093.pdf,WellCare Medicals,2025-09-24,DR-852427,Cetcip,Cetirizine,10mg,C6TQJ3EQ,3,51.85,12,174.22,False
+TRAIN-0093,output\train\TRAIN-0093.pdf,WellCare Medicals,2025-09-24,DR-852427,Nimesulide DT,Nimesulide,100mg,R7UG4Q3B,3,63.18,5,199.02,True
+TRAIN-0094,output\train\TRAIN-0094.pdf,HealthPlus Medical Store,2025-01-06,DR-012923,Dolo 650,Paracetamol,650mg,OZSATFHC,2,217.62,18,513.58,False
+TRAIN-0094,output\train\TRAIN-0094.pdf,HealthPlus Medical Store,2025-01-06,DR-012923,Cefixime 200,Cefixime,200mg,P3ELKGTB,1,48.00,18,56.64,False
+TRAIN-0095,output\train\TRAIN-0095.pdf,WellCare Medicals,2025-11-29,DR-418004,Corex,Codeine + CPM,10mg/4mg,27ST6LCR,3,348.98,18,1235.39,True
+TRAIN-0095,output\train\TRAIN-0095.pdf,WellCare Medicals,2025-11-29,DR-418004,Cefixime 200,Cefixime,200mg,UFH5D268,2,228.89,12,512.71,False
+TRAIN-0095,output\train\TRAIN-0095.pdf,WellCare Medicals,2025-11-29,DR-418004,Corex,Codeine + CPM,10mg/4mg,VNCD78FH,2,279.41,18,659.41,True
+TRAIN-0096,output\train\TRAIN-0096.pdf,GreenLife Drug House,2025-11-04,DR-524258,Oflox-OZ,Ofloxacin + Ornidazole,200/500mg,95OQK412,3,123.93,12,416.40,False
+TRAIN-0096,output\train\TRAIN-0096.pdf,GreenLife Drug House,2025-11-04,DR-524258,Azithral 500,Azithromycin,500mg,5YLKM277,3,371.38,5,1169.85,False
+TRAIN-0096,output\train\TRAIN-0096.pdf,GreenLife Drug House,2025-11-04,DR-524258,Cefixime 200,Cefixime,200mg,6JN6LLAP,2,179.20,5,376.32,False
+TRAIN-0096,output\train\TRAIN-0096.pdf,GreenLife Drug House,2025-11-04,DR-524258,Azithral 500,Azithromycin,500mg,EBULM866,3,194.78,12,654.46,False
+TRAIN-0097,output\train\TRAIN-0097.pdf,GreenLife Drug House,2025-12-08,DR-607516,Corex,Codeine + CPM,10mg/4mg,RD3SZMQM,1,225.19,5,236.45,True
+TRAIN-0097,output\train\TRAIN-0097.pdf,GreenLife Drug House,2025-12-08,DR-607516,Amoxyclav,Amoxicillin + Clavulanic Acid,500/125mg,0QOUPA8R,2,100.41,12,224.92,False
+TRAIN-0098,output\train\TRAIN-0098.pdf,CityMed Pharmacy,2025-02-02,DR-718893,Azithral 500,Azithromycin,500mg,G0ZYQ9J9,3,330.80,18,1171.03,False
+TRAIN-0098,output\train\TRAIN-0098.pdf,CityMed Pharmacy,2025-02-02,DR-718893,Cetcip,Cetirizine,10mg,J9QH9PGX,2,297.68,12,666.80,False
+TRAIN-0099,output\train\TRAIN-0099.pdf,CityMed Pharmacy,2025-11-10,DR-881308,Azithral 500,Azithromycin,500mg,ZWLCJKH1,1,269.45,12,301.78,False
+TRAIN-0099,output\train\TRAIN-0099.pdf,CityMed Pharmacy,2025-11-10,DR-881308,Azithral 500,Azithromycin,500mg,0LMXCMNT,3,51.80,5,163.17,False
+TRAIN-0099,output\train\TRAIN-0099.pdf,CityMed Pharmacy,2025-11-10,DR-881308,Azithral 500,Azithromycin,500mg,6VQ2RBYT,2,350.29,12,784.65,False
+TRAIN-0099,output\train\TRAIN-0099.pdf,CityMed Pharmacy,2025-11-10,DR-881308,Oflox-OZ,Ofloxacin + Ornidazole,200/500mg,DKAQFJ8C,3,319.64,18,1131.53,False
+TRAIN-0100,output\train\TRAIN-0100.pdf,WellCare Medicals,2025-09-25,DR-449164,Saridon,Paracetamol Combo,250/150/50mg,KL8IO0NO,1,156.28,18,184.41,True
+TRAIN-0100,output\train\TRAIN-0100.pdf,WellCare Medicals,2025-09-25,DR-449164,Azithral 500,Azithromycin,500mg,208CEMLY,2,187.68,5,394.13,False
+TRAIN-0100,output\train\TRAIN-0100.pdf,WellCare Medicals,2025-09-25,DR-449164,Oflox-OZ,Ofloxacin + Ornidazole,200/500mg,LY7K0EZO,1,85.13,12,95.35,False

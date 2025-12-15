@@ -1,0 +1,2276 @@
+[
+  {
+    "invoice_id": "TEST-0001",
+    "pdf": "output\\test\\TEST-0001.pdf",
+    "pharmacy": "TrustCare Pharma",
+    "date": "2024-12-17",
+    "doctor": "DR-923596",
+    "items": [
+      {
+        "brand": "Corex",
+        "generic": "Codeine + CPM",
+        "strength": "10mg/4mg",
+        "qty": 2,
+        "price": 89.95,
+        "gst": 5,
+        "gst_amount": 8.995,
+        "line_total": 188.895,
+        "batch": "9GJUSPON",
+        "is_banned": true
+      },
+      {
+        "brand": "Amoxyclav",
+        "generic": "Amoxicillin + Clavulanic Acid",
+        "strength": "500/125mg",
+        "qty": 3,
+        "price": 183.94,
+        "gst": 5,
+        "gst_amount": 27.590999999999994,
+        "line_total": 579.411,
+        "batch": "60ROKSRR",
+        "is_banned": false
+      },
+      {
+        "brand": "Azithral 500",
+        "generic": "Azithromycin",
+        "strength": "500mg",
+        "qty": 2,
+        "price": 180.32,
+        "gst": 5,
+        "gst_amount": 18.031999999999996,
+        "line_total": 378.67199999999997,
+        "batch": "P8GYQX18",
+        "is_banned": false
+      },
+      {
+        "brand": "Dolo 650",
+        "generic": "Paracetamol",
+        "strength": "650mg",
+        "qty": 1,
+        "price": 278.21,
+        "gst": 18,
+        "gst_amount": 50.077799999999996,
+        "line_total": 328.28779999999995,
+        "batch": "91P3QVL1",
+        "is_banned": false
+      }
+    ]
+  },
+  {
+    "invoice_id": "TEST-0002",
+    "pdf": "output\\test\\TEST-0002.pdf",
+    "pharmacy": "WellCare Medicals",
+    "date": "2025-06-20",
+    "doctor": "DR-967780",
+    "items": [
+      {
+        "brand": "Azithral 500",
+        "generic": "Azithromycin",
+        "strength": "500mg",
+        "qty": 1,
+        "price": 105.27,
+        "gst": 12,
+        "gst_amount": 12.6324,
+        "line_total": 117.9024,
+        "batch": "KM78YCL1",
+        "is_banned": false
+      },
+      {
+        "brand": "Saridon",
+        "generic": "Paracetamol Combo",
+        "strength": "250/150/50mg",
+        "qty": 1,
+        "price": 158.62,
+        "gst": 5,
+        "gst_amount": 7.931,
+        "line_total": 166.55100000000002,
+        "batch": "ZY0OLP3U",
+        "is_banned": true
+      },
+      {
+        "brand": "Saridon",
+        "generic": "Paracetamol Combo",
+        "strength": "250/150/50mg",
+        "qty": 3,
+        "price": 272.8,
+        "gst": 12,
+        "gst_amount": 98.20800000000001,
+        "line_total": 916.6080000000001,
+        "batch": "9BK5BYT1",
+        "is_banned": true
+      },
+      {
+        "brand": "Analgin",
+        "generic": "Metamizole",
+        "strength": "500mg",
+        "qty": 2,
+        "price": 206.81,
+        "gst": 5,
+        "gst_amount": 20.680999999999997,
+        "line_total": 434.301,
+        "batch": "JDUGRXPL",
+        "is_banned": true
+      }
+    ]
+  },
+  {
+    "invoice_id": "TEST-0003",
+    "pdf": "output\\test\\TEST-0003.pdf",
+    "pharmacy": "CityMed Pharmacy",
+    "date": "2025-10-23",
+    "doctor": "DR-104115",
+    "items": [
+      {
+        "brand": "Dolo 650",
+        "generic": "Paracetamol",
+        "strength": "650mg",
+        "qty": 1,
+        "price": 274.99,
+        "gst": 12,
+        "gst_amount": 32.9988,
+        "line_total": 307.9888,
+        "batch": "64GA8V2C",
+        "is_banned": false
+      },
+      {
+        "brand": "Nimesulide DT",
+        "generic": "Nimesulide",
+        "strength": "100mg",
+        "qty": 1,
+        "price": 262.28,
+        "gst": 12,
+        "gst_amount": 31.473599999999998,
+        "line_total": 293.75359999999995,
+        "batch": "QXNJ2660",
+        "is_banned": true
+      },
+      {
+        "brand": "Cefixime 200",
+        "generic": "Cefixime",
+        "strength": "200mg",
+        "qty": 3,
+        "price": 80.98,
+        "gst": 12,
+        "gst_amount": 29.1528,
+        "line_total": 272.0928,
+        "batch": "BDD0IFLB",
+        "is_banned": false
+      },
+      {
+        "brand": "Cefixime 200",
+        "generic": "Cefixime",
+        "strength": "200mg",
+        "qty": 1,
+        "price": 381.2,
+        "gst": 18,
+        "gst_amount": 68.616,
+        "line_total": 449.816,
+        "batch": "ND4XVZN6",
+        "is_banned": false
+      }
+    ]
+  },
+  {
+    "invoice_id": "TEST-0004",
+    "pdf": "output\\test\\TEST-0004.pdf",
+    "pharmacy": "HealthPlus Medical Store",
+    "date": "2025-06-17",
+    "doctor": "DR-597453",
+    "items": [
+      {
+        "brand": "Oflox-OZ",
+        "generic": "Ofloxacin + Ornidazole",
+        "strength": "200/500mg",
+        "qty": 2,
+        "price": 191.68,
+        "gst": 5,
+        "gst_amount": 19.168000000000003,
+        "line_total": 402.528,
+        "batch": "ZJXJFODE",
+        "is_banned": false
+      },
+      {
+        "brand": "Analgin",
+        "generic": "Metamizole",
+        "strength": "500mg",
+        "qty": 3,
+        "price": 190.16,
+        "gst": 12,
+        "gst_amount": 68.4576,
+        "line_total": 638.9376,
+        "batch": "HD0R6VXC",
+        "is_banned": true
+      }
+    ]
+  },
+  {
+    "invoice_id": "TEST-0005",
+    "pdf": "output\\test\\TEST-0005.pdf",
+    "pharmacy": "TrustCare Pharma",
+    "date": "2025-11-24",
+    "doctor": "DR-160046",
+    "items": [
+      {
+        "brand": "Cetcip",
+        "generic": "Cetirizine",
+        "strength": "10mg",
+        "qty": 3,
+        "price": 135.76,
+        "gst": 18,
+        "gst_amount": 73.31039999999999,
+        "line_total": 480.59039999999993,
+        "batch": "LJJ9AKP5",
+        "is_banned": false
+      },
+      {
+        "brand": "Corex",
+        "generic": "Codeine + CPM",
+        "strength": "10mg/4mg",
+        "qty": 1,
+        "price": 341.88,
+        "gst": 5,
+        "gst_amount": 17.094,
+        "line_total": 358.974,
+        "batch": "E1DDASCU",
+        "is_banned": true
+      },
+      {
+        "brand": "Analgin",
+        "generic": "Metamizole",
+        "strength": "500mg",
+        "qty": 2,
+        "price": 97.12,
+        "gst": 12,
+        "gst_amount": 23.3088,
+        "line_total": 217.5488,
+        "batch": "UM85EKQW",
+        "is_banned": true
+      },
+      {
+        "brand": "Cefixime 200",
+        "generic": "Cefixime",
+        "strength": "200mg",
+        "qty": 1,
+        "price": 318.44,
+        "gst": 5,
+        "gst_amount": 15.922,
+        "line_total": 334.362,
+        "batch": "166HM5LR",
+        "is_banned": false
+      }
+    ]
+  },
+  {
+    "invoice_id": "TEST-0006",
+    "pdf": "output\\test\\TEST-0006.pdf",
+    "pharmacy": "GreenLife Drug House",
+    "date": "2025-11-29",
+    "doctor": "DR-261923",
+    "items": [
+      {
+        "brand": "Corex",
+        "generic": "Codeine + CPM",
+        "strength": "10mg/4mg",
+        "qty": 1,
+        "price": 152.75,
+        "gst": 18,
+        "gst_amount": 27.495,
+        "line_total": 180.245,
+        "batch": "3KBTUDEL",
+        "is_banned": true
+      },
+      {
+        "brand": "Azithral 500",
+        "generic": "Azithromycin",
+        "strength": "500mg",
+        "qty": 1,
+        "price": 324.06,
+        "gst": 12,
+        "gst_amount": 38.8872,
+        "line_total": 362.9472,
+        "batch": "NDOY7SCZ",
+        "is_banned": false
+      },
+      {
+        "brand": "Oflox-OZ",
+        "generic": "Ofloxacin + Ornidazole",
+        "strength": "200/500mg",
+        "qty": 1,
+        "price": 196.17,
+        "gst": 18,
+        "gst_amount": 35.3106,
+        "line_total": 231.48059999999998,
+        "batch": "VVZPYZDN",
+        "is_banned": false
+      },
+      {
+        "brand": "Oflox-OZ",
+        "generic": "Ofloxacin + Ornidazole",
+        "strength": "200/500mg",
+        "qty": 2,
+        "price": 226.23,
+        "gst": 12,
+        "gst_amount": 54.295199999999994,
+        "line_total": 506.75519999999995,
+        "batch": "2QU2M9TY",
+        "is_banned": false
+      }
+    ]
+  },
+  {
+    "invoice_id": "TEST-0007",
+    "pdf": "output\\test\\TEST-0007.pdf",
+    "pharmacy": "CityMed Pharmacy",
+    "date": "2025-02-12",
+    "doctor": "DR-989220",
+    "items": [
+      {
+        "brand": "Saridon",
+        "generic": "Paracetamol Combo",
+        "strength": "250/150/50mg",
+        "qty": 2,
+        "price": 92.37,
+        "gst": 5,
+        "gst_amount": 9.237,
+        "line_total": 193.977,
+        "batch": "SU5FQVLE",
+        "is_banned": true
+      },
+      {
+        "brand": "Oflox-OZ",
+        "generic": "Ofloxacin + Ornidazole",
+        "strength": "200/500mg",
+        "qty": 2,
+        "price": 104.89,
+        "gst": 18,
+        "gst_amount": 37.7604,
+        "line_total": 247.5404,
+        "batch": "85J9EUXK",
+        "is_banned": false
+      },
+      {
+        "brand": "Analgin",
+        "generic": "Metamizole",
+        "strength": "500mg",
+        "qty": 2,
+        "price": 391.6,
+        "gst": 18,
+        "gst_amount": 140.976,
+        "line_total": 924.176,
+        "batch": "8MKKBM9V",
+        "is_banned": true
+      },
+      {
+        "brand": "Dolo 650",
+        "generic": "Paracetamol",
+        "strength": "650mg",
+        "qty": 3,
+        "price": 323.1,
+        "gst": 12,
+        "gst_amount": 116.316,
+        "line_total": 1085.616,
+        "batch": "U8ZG5MON",
+        "is_banned": false
+      }
+    ]
+  },
+  {
+    "invoice_id": "TEST-0008",
+    "pdf": "output\\test\\TEST-0008.pdf",
+    "pharmacy": "CityMed Pharmacy",
+    "date": "2025-09-20",
+    "doctor": "DR-037984",
+    "items": [
+      {
+        "brand": "Dolo 650",
+        "generic": "Paracetamol",
+        "strength": "650mg",
+        "qty": 3,
+        "price": 39.3,
+        "gst": 5,
+        "gst_amount": 5.895,
+        "line_total": 123.79499999999999,
+        "batch": "SZHIKP8L",
+        "is_banned": false
+      },
+      {
+        "brand": "Corex",
+        "generic": "Codeine + CPM",
+        "strength": "10mg/4mg",
+        "qty": 1,
+        "price": 220.07,
+        "gst": 12,
+        "gst_amount": 26.4084,
+        "line_total": 246.4784,
+        "batch": "QNT2RD3L",
+        "is_banned": true
+      }
+    ]
+  },
+  {
+    "invoice_id": "TEST-0009",
+    "pdf": "output\\test\\TEST-0009.pdf",
+    "pharmacy": "GreenLife Drug House",
+    "date": "2025-10-28",
+    "doctor": "DR-332924",
+    "items": [
+      {
+        "brand": "Cefixime 200",
+        "generic": "Cefixime",
+        "strength": "200mg",
+        "qty": 3,
+        "price": 390.75,
+        "gst": 18,
+        "gst_amount": 211.005,
+        "line_total": 1383.255,
+        "batch": "OOPKO5X0",
+        "is_banned": false
+      },
+      {
+        "brand": "Nimesulide DT",
+        "generic": "Nimesulide",
+        "strength": "100mg",
+        "qty": 3,
+        "price": 387.31,
+        "gst": 12,
+        "gst_amount": 139.4316,
+        "line_total": 1301.3616000000002,
+        "batch": "UAFAHZNN",
+        "is_banned": true
+      }
+    ]
+  },
+  {
+    "invoice_id": "TEST-0010",
+    "pdf": "output\\test\\TEST-0010.pdf",
+    "pharmacy": "GreenLife Drug House",
+    "date": "2025-07-18",
+    "doctor": "DR-097006",
+    "items": [
+      {
+        "brand": "Analgin",
+        "generic": "Metamizole",
+        "strength": "500mg",
+        "qty": 3,
+        "price": 232.48,
+        "gst": 18,
+        "gst_amount": 125.53919999999998,
+        "line_total": 822.9791999999999,
+        "batch": "M9JPS510",
+        "is_banned": true
+      },
+      {
+        "brand": "Azithral 500",
+        "generic": "Azithromycin",
+        "strength": "500mg",
+        "qty": 1,
+        "price": 325.57,
+        "gst": 18,
+        "gst_amount": 58.6026,
+        "line_total": 384.1726,
+        "batch": "XECJTU2W",
+        "is_banned": false
+      },
+      {
+        "brand": "Azithral 500",
+        "generic": "Azithromycin",
+        "strength": "500mg",
+        "qty": 3,
+        "price": 161.24,
+        "gst": 12,
+        "gst_amount": 58.046400000000006,
+        "line_total": 541.7664,
+        "batch": "5ECAHBTG",
+        "is_banned": false
+      },
+      {
+        "brand": "Cetcip",
+        "generic": "Cetirizine",
+        "strength": "10mg",
+        "qty": 2,
+        "price": 157.46,
+        "gst": 18,
+        "gst_amount": 56.6856,
+        "line_total": 371.60560000000004,
+        "batch": "1F0C80HG",
+        "is_banned": false
+      }
+    ]
+  },
+  {
+    "invoice_id": "TEST-0011",
+    "pdf": "output\\test\\TEST-0011.pdf",
+    "pharmacy": "GreenLife Drug House",
+    "date": "2025-05-02",
+    "doctor": "DR-875107",
+    "items": [
+      {
+        "brand": "Dolo 650",
+        "generic": "Paracetamol",
+        "strength": "650mg",
+        "qty": 2,
+        "price": 123.59,
+        "gst": 5,
+        "gst_amount": 12.359000000000002,
+        "line_total": 259.539,
+        "batch": "OHF640QS",
+        "is_banned": false
+      },
+      {
+        "brand": "Nimesulide DT",
+        "generic": "Nimesulide",
+        "strength": "100mg",
+        "qty": 1,
+        "price": 71.78,
+        "gst": 5,
+        "gst_amount": 3.589,
+        "line_total": 75.369,
+        "batch": "512B6JTI",
+        "is_banned": true
+      }
+    ]
+  },
+  {
+    "invoice_id": "TEST-0012",
+    "pdf": "output\\test\\TEST-0012.pdf",
+    "pharmacy": "HealthPlus Medical Store",
+    "date": "2025-07-02",
+    "doctor": "DR-170841",
+    "items": [
+      {
+        "brand": "Cetcip",
+        "generic": "Cetirizine",
+        "strength": "10mg",
+        "qty": 3,
+        "price": 376.11,
+        "gst": 12,
+        "gst_amount": 135.3996,
+        "line_total": 1263.7296,
+        "batch": "PUHJZCZP",
+        "is_banned": false
+      },
+      {
+        "brand": "Dolo 650",
+        "generic": "Paracetamol",
+        "strength": "650mg",
+        "qty": 3,
+        "price": 255.22,
+        "gst": 18,
+        "gst_amount": 137.81879999999998,
+        "line_total": 903.4788,
+        "batch": "XMEQVO4N",
+        "is_banned": false
+      }
+    ]
+  },
+  {
+    "invoice_id": "TEST-0013",
+    "pdf": "output\\test\\TEST-0013.pdf",
+    "pharmacy": "CityMed Pharmacy",
+    "date": "2025-09-22",
+    "doctor": "DR-819475",
+    "items": [
+      {
+        "brand": "Dolo 650",
+        "generic": "Paracetamol",
+        "strength": "650mg",
+        "qty": 1,
+        "price": 180.78,
+        "gst": 5,
+        "gst_amount": 9.039,
+        "line_total": 189.819,
+        "batch": "2NVP8G4Q",
+        "is_banned": false
+      },
+      {
+        "brand": "Analgin",
+        "generic": "Metamizole",
+        "strength": "500mg",
+        "qty": 3,
+        "price": 165.42,
+        "gst": 18,
+        "gst_amount": 89.3268,
+        "line_total": 585.5868,
+        "batch": "SJKK467Q",
+        "is_banned": true
+      }
+    ]
+  },
+  {
+    "invoice_id": "TEST-0014",
+    "pdf": "output\\test\\TEST-0014.pdf",
+    "pharmacy": "GreenLife Drug House",
+    "date": "2025-10-22",
+    "doctor": "DR-991876",
+    "items": [
+      {
+        "brand": "Corex",
+        "generic": "Codeine + CPM",
+        "strength": "10mg/4mg",
+        "qty": 2,
+        "price": 342.63,
+        "gst": 12,
+        "gst_amount": 82.23119999999999,
+        "line_total": 767.4911999999999,
+        "batch": "49SIUEIY",
+        "is_banned": true
+      },
+      {
+        "brand": "Amoxyclav",
+        "generic": "Amoxicillin + Clavulanic Acid",
+        "strength": "500/125mg",
+        "qty": 2,
+        "price": 365.12,
+        "gst": 5,
+        "gst_amount": 36.512,
+        "line_total": 766.752,
+        "batch": "009GYA6J",
+        "is_banned": false
+      },
+      {
+        "brand": "Analgin",
+        "generic": "Metamizole",
+        "strength": "500mg",
+        "qty": 3,
+        "price": 375.56,
+        "gst": 5,
+        "gst_amount": 56.334,
+        "line_total": 1183.0140000000001,
+        "batch": "YBFRO075",
+        "is_banned": true
+      },
+      {
+        "brand": "Amoxyclav",
+        "generic": "Amoxicillin + Clavulanic Acid",
+        "strength": "500/125mg",
+        "qty": 2,
+        "price": 127.23,
+        "gst": 18,
+        "gst_amount": 45.8028,
+        "line_total": 300.2628,
+        "batch": "NTB4E57S",
+        "is_banned": false
+      }
+    ]
+  },
+  {
+    "invoice_id": "TEST-0015",
+    "pdf": "output\\test\\TEST-0015.pdf",
+    "pharmacy": "HealthPlus Medical Store",
+    "date": "2025-04-08",
+    "doctor": "DR-456099",
+    "items": [
+      {
+        "brand": "Amoxyclav",
+        "generic": "Amoxicillin + Clavulanic Acid",
+        "strength": "500/125mg",
+        "qty": 2,
+        "price": 35.69,
+        "gst": 5,
+        "gst_amount": 3.569,
+        "line_total": 74.949,
+        "batch": "7ZBKV9ID",
+        "is_banned": false
+      },
+      {
+        "brand": "Amoxyclav",
+        "generic": "Amoxicillin + Clavulanic Acid",
+        "strength": "500/125mg",
+        "qty": 3,
+        "price": 40.04,
+        "gst": 18,
+        "gst_amount": 21.621599999999997,
+        "line_total": 141.7416,
+        "batch": "KMG5FLEA",
+        "is_banned": false
+      },
+      {
+        "brand": "Oflox-OZ",
+        "generic": "Ofloxacin + Ornidazole",
+        "strength": "200/500mg",
+        "qty": 3,
+        "price": 340.75,
+        "gst": 12,
+        "gst_amount": 122.67,
+        "line_total": 1144.92,
+        "batch": "1TD3TTN7",
+        "is_banned": false
+      },
+      {
+        "brand": "Oflox-OZ",
+        "generic": "Ofloxacin + Ornidazole",
+        "strength": "200/500mg",
+        "qty": 2,
+        "price": 153.52,
+        "gst": 5,
+        "gst_amount": 15.352,
+        "line_total": 322.392,
+        "batch": "17JJE4UZ",
+        "is_banned": false
+      }
+    ]
+  },
+  {
+    "invoice_id": "TEST-0016",
+    "pdf": "output\\test\\TEST-0016.pdf",
+    "pharmacy": "TrustCare Pharma",
+    "date": "2025-06-17",
+    "doctor": "DR-473594",
+    "items": [
+      {
+        "brand": "Cefixime 200",
+        "generic": "Cefixime",
+        "strength": "200mg",
+        "qty": 3,
+        "price": 67.69,
+        "gst": 18,
+        "gst_amount": 36.5526,
+        "line_total": 239.62259999999998,
+        "batch": "PUUG32W6",
+        "is_banned": false
+      },
+      {
+        "brand": "Azithral 500",
+        "generic": "Azithromycin",
+        "strength": "500mg",
+        "qty": 1,
+        "price": 365.84,
+        "gst": 12,
+        "gst_amount": 43.9008,
+        "line_total": 409.7408,
+        "batch": "92TJZKLG",
+        "is_banned": false
+      },
+      {
+        "brand": "Saridon",
+        "generic": "Paracetamol Combo",
+        "strength": "250/150/50mg",
+        "qty": 2,
+        "price": 107.86,
+        "gst": 18,
+        "gst_amount": 38.8296,
+        "line_total": 254.5496,
+        "batch": "XCBMFKOO",
+        "is_banned": true
+      }
+    ]
+  },
+  {
+    "invoice_id": "TEST-0017",
+    "pdf": "output\\test\\TEST-0017.pdf",
+    "pharmacy": "HealthPlus Medical Store",
+    "date": "2025-11-30",
+    "doctor": "DR-481996",
+    "items": [
+      {
+        "brand": "Azithral 500",
+        "generic": "Azithromycin",
+        "strength": "500mg",
+        "qty": 3,
+        "price": 253.19,
+        "gst": 5,
+        "gst_amount": 37.9785,
+        "line_total": 797.5484999999999,
+        "batch": "QU37L1AY",
+        "is_banned": false
+      },
+      {
+        "brand": "Cefixime 200",
+        "generic": "Cefixime",
+        "strength": "200mg",
+        "qty": 2,
+        "price": 322.78,
+        "gst": 18,
+        "gst_amount": 116.20079999999999,
+        "line_total": 761.7607999999999,
+        "batch": "T2VUMWCN",
+        "is_banned": false
+      }
+    ]
+  },
+  {
+    "invoice_id": "TEST-0018",
+    "pdf": "output\\test\\TEST-0018.pdf",
+    "pharmacy": "TrustCare Pharma",
+    "date": "2025-05-16",
+    "doctor": "DR-281687",
+    "items": [
+      {
+        "brand": "Corex",
+        "generic": "Codeine + CPM",
+        "strength": "10mg/4mg",
+        "qty": 2,
+        "price": 317.57,
+        "gst": 18,
+        "gst_amount": 114.32520000000001,
+        "line_total": 749.4652,
+        "batch": "E172Z8FM",
+        "is_banned": true
+      },
+      {
+        "brand": "Oflox-OZ",
+        "generic": "Ofloxacin + Ornidazole",
+        "strength": "200/500mg",
+        "qty": 3,
+        "price": 293.81,
+        "gst": 5,
+        "gst_amount": 44.07150000000001,
+        "line_total": 925.5015000000001,
+        "batch": "NANEHBGD",
+        "is_banned": false
+      }
+    ]
+  },
+  {
+    "invoice_id": "TEST-0019",
+    "pdf": "output\\test\\TEST-0019.pdf",
+    "pharmacy": "WellCare Medicals",
+    "date": "2025-05-12",
+    "doctor": "DR-541689",
+    "items": [
+      {
+        "brand": "Cefixime 200",
+        "generic": "Cefixime",
+        "strength": "200mg",
+        "qty": 3,
+        "price": 348.98,
+        "gst": 18,
+        "gst_amount": 188.44920000000002,
+        "line_total": 1235.3892,
+        "batch": "DFD20R5J",
+        "is_banned": false
+      },
+      {
+        "brand": "Cefixime 200",
+        "generic": "Cefixime",
+        "strength": "200mg",
+        "qty": 1,
+        "price": 312.02,
+        "gst": 18,
+        "gst_amount": 56.163599999999995,
+        "line_total": 368.18359999999996,
+        "batch": "4E0M9PWH",
+        "is_banned": false
+      },
+      {
+        "brand": "Oflox-OZ",
+        "generic": "Ofloxacin + Ornidazole",
+        "strength": "200/500mg",
+        "qty": 1,
+        "price": 379.05,
+        "gst": 18,
+        "gst_amount": 68.229,
+        "line_total": 447.279,
+        "batch": "EBKQECQ4",
+        "is_banned": false
+      },
+      {
+        "brand": "Analgin",
+        "generic": "Metamizole",
+        "strength": "500mg",
+        "qty": 1,
+        "price": 277.79,
+        "gst": 5,
+        "gst_amount": 13.8895,
+        "line_total": 291.6795,
+        "batch": "SW738T6U",
+        "is_banned": true
+      }
+    ]
+  },
+  {
+    "invoice_id": "TEST-0020",
+    "pdf": "output\\test\\TEST-0020.pdf",
+    "pharmacy": "TrustCare Pharma",
+    "date": "2025-08-13",
+    "doctor": "DR-153342",
+    "items": [
+      {
+        "brand": "Cetcip",
+        "generic": "Cetirizine",
+        "strength": "10mg",
+        "qty": 3,
+        "price": 343.34,
+        "gst": 18,
+        "gst_amount": 185.4036,
+        "line_total": 1215.4236,
+        "batch": "83BCSM9P",
+        "is_banned": false
+      },
+      {
+        "brand": "Dolo 650",
+        "generic": "Paracetamol",
+        "strength": "650mg",
+        "qty": 1,
+        "price": 167.45,
+        "gst": 18,
+        "gst_amount": 30.141,
+        "line_total": 197.59099999999998,
+        "batch": "MSH5MVT7",
+        "is_banned": false
+      },
+      {
+        "brand": "Cefixime 200",
+        "generic": "Cefixime",
+        "strength": "200mg",
+        "qty": 1,
+        "price": 69.99,
+        "gst": 12,
+        "gst_amount": 8.3988,
+        "line_total": 78.38879999999999,
+        "batch": "739LFATL",
+        "is_banned": false
+      }
+    ]
+  },
+  {
+    "invoice_id": "TEST-0021",
+    "pdf": "output\\test\\TEST-0021.pdf",
+    "pharmacy": "TrustCare Pharma",
+    "date": "2025-03-25",
+    "doctor": "DR-267122",
+    "items": [
+      {
+        "brand": "Corex",
+        "generic": "Codeine + CPM",
+        "strength": "10mg/4mg",
+        "qty": 2,
+        "price": 76.48,
+        "gst": 5,
+        "gst_amount": 7.648000000000001,
+        "line_total": 160.608,
+        "batch": "FTEWIG9Y",
+        "is_banned": true
+      },
+      {
+        "brand": "Dolo 650",
+        "generic": "Paracetamol",
+        "strength": "650mg",
+        "qty": 1,
+        "price": 34.86,
+        "gst": 18,
+        "gst_amount": 6.2748,
+        "line_total": 41.1348,
+        "batch": "80BB6RZI",
+        "is_banned": false
+      },
+      {
+        "brand": "Oflox-OZ",
+        "generic": "Ofloxacin + Ornidazole",
+        "strength": "200/500mg",
+        "qty": 2,
+        "price": 344.53,
+        "gst": 18,
+        "gst_amount": 124.03079999999999,
+        "line_total": 813.0908,
+        "batch": "XB45F0ZX",
+        "is_banned": false
+      },
+      {
+        "brand": "Corex",
+        "generic": "Codeine + CPM",
+        "strength": "10mg/4mg",
+        "qty": 1,
+        "price": 127.14,
+        "gst": 12,
+        "gst_amount": 15.2568,
+        "line_total": 142.3968,
+        "batch": "T1C59Z63",
+        "is_banned": true
+      }
+    ]
+  },
+  {
+    "invoice_id": "TEST-0022",
+    "pdf": "output\\test\\TEST-0022.pdf",
+    "pharmacy": "GreenLife Drug House",
+    "date": "2025-04-01",
+    "doctor": "DR-852091",
+    "items": [
+      {
+        "brand": "Corex",
+        "generic": "Codeine + CPM",
+        "strength": "10mg/4mg",
+        "qty": 3,
+        "price": 111.69,
+        "gst": 5,
+        "gst_amount": 16.7535,
+        "line_total": 351.82349999999997,
+        "batch": "G83JYRFM",
+        "is_banned": true
+      },
+      {
+        "brand": "Cefixime 200",
+        "generic": "Cefixime",
+        "strength": "200mg",
+        "qty": 2,
+        "price": 208.23,
+        "gst": 12,
+        "gst_amount": 49.975199999999994,
+        "line_total": 466.43519999999995,
+        "batch": "JAU94PFX",
+        "is_banned": false
+      }
+    ]
+  },
+  {
+    "invoice_id": "TEST-0023",
+    "pdf": "output\\test\\TEST-0023.pdf",
+    "pharmacy": "TrustCare Pharma",
+    "date": "2025-07-17",
+    "doctor": "DR-561500",
+    "items": [
+      {
+        "brand": "Amoxyclav",
+        "generic": "Amoxicillin + Clavulanic Acid",
+        "strength": "500/125mg",
+        "qty": 3,
+        "price": 72.6,
+        "gst": 5,
+        "gst_amount": 10.89,
+        "line_total": 228.69,
+        "batch": "UGWU1T43",
+        "is_banned": false
+      },
+      {
+        "brand": "Oflox-OZ",
+        "generic": "Ofloxacin + Ornidazole",
+        "strength": "200/500mg",
+        "qty": 2,
+        "price": 135.55,
+        "gst": 18,
+        "gst_amount": 48.798,
+        "line_total": 319.898,
+        "batch": "BKW3JQTT",
+        "is_banned": false
+      },
+      {
+        "brand": "Nimesulide DT",
+        "generic": "Nimesulide",
+        "strength": "100mg",
+        "qty": 1,
+        "price": 306.29,
+        "gst": 5,
+        "gst_amount": 15.3145,
+        "line_total": 321.60450000000003,
+        "batch": "O0KNJKJH",
+        "is_banned": true
+      },
+      {
+        "brand": "Oflox-OZ",
+        "generic": "Ofloxacin + Ornidazole",
+        "strength": "200/500mg",
+        "qty": 3,
+        "price": 177.68,
+        "gst": 5,
+        "gst_amount": 26.651999999999997,
+        "line_total": 559.692,
+        "batch": "0NEZ3ZSO",
+        "is_banned": false
+      }
+    ]
+  },
+  {
+    "invoice_id": "TEST-0024",
+    "pdf": "output\\test\\TEST-0024.pdf",
+    "pharmacy": "TrustCare Pharma",
+    "date": "2025-11-21",
+    "doctor": "DR-646203",
+    "items": [
+      {
+        "brand": "Azithral 500",
+        "generic": "Azithromycin",
+        "strength": "500mg",
+        "qty": 3,
+        "price": 81.88,
+        "gst": 5,
+        "gst_amount": 12.281999999999998,
+        "line_total": 257.92199999999997,
+        "batch": "6J0M71GY",
+        "is_banned": false
+      },
+      {
+        "brand": "Oflox-OZ",
+        "generic": "Ofloxacin + Ornidazole",
+        "strength": "200/500mg",
+        "qty": 3,
+        "price": 64.14,
+        "gst": 12,
+        "gst_amount": 23.0904,
+        "line_total": 215.5104,
+        "batch": "3GH7GLLF",
+        "is_banned": false
+      }
+    ]
+  },
+  {
+    "invoice_id": "TEST-0025",
+    "pdf": "output\\test\\TEST-0025.pdf",
+    "pharmacy": "HealthPlus Medical Store",
+    "date": "2025-03-01",
+    "doctor": "DR-195647",
+    "items": [
+      {
+        "brand": "Amoxyclav",
+        "generic": "Amoxicillin + Clavulanic Acid",
+        "strength": "500/125mg",
+        "qty": 1,
+        "price": 69.17,
+        "gst": 5,
+        "gst_amount": 3.4585000000000004,
+        "line_total": 72.6285,
+        "batch": "PRNV3Y0K",
+        "is_banned": false
+      },
+      {
+        "brand": "Analgin",
+        "generic": "Metamizole",
+        "strength": "500mg",
+        "qty": 1,
+        "price": 288.44,
+        "gst": 5,
+        "gst_amount": 14.422,
+        "line_total": 302.862,
+        "batch": "G4KFDBEV",
+        "is_banned": true
+      },
+      {
+        "brand": "Corex",
+        "generic": "Codeine + CPM",
+        "strength": "10mg/4mg",
+        "qty": 2,
+        "price": 208.56,
+        "gst": 5,
+        "gst_amount": 20.855999999999998,
+        "line_total": 437.976,
+        "batch": "8R7QRBI1",
+        "is_banned": true
+      }
+    ]
+  },
+  {
+    "invoice_id": "TEST-0026",
+    "pdf": "output\\test\\TEST-0026.pdf",
+    "pharmacy": "GreenLife Drug House",
+    "date": "2025-04-23",
+    "doctor": "DR-081918",
+    "items": [
+      {
+        "brand": "Nimesulide DT",
+        "generic": "Nimesulide",
+        "strength": "100mg",
+        "qty": 1,
+        "price": 369.76,
+        "gst": 5,
+        "gst_amount": 18.488,
+        "line_total": 388.248,
+        "batch": "JNNNY0QP",
+        "is_banned": true
+      },
+      {
+        "brand": "Azithral 500",
+        "generic": "Azithromycin",
+        "strength": "500mg",
+        "qty": 2,
+        "price": 217.91,
+        "gst": 5,
+        "gst_amount": 21.791,
+        "line_total": 457.611,
+        "batch": "OL86U588",
+        "is_banned": false
+      }
+    ]
+  },
+  {
+    "invoice_id": "TEST-0027",
+    "pdf": "output\\test\\TEST-0027.pdf",
+    "pharmacy": "CityMed Pharmacy",
+    "date": "2025-07-05",
+    "doctor": "DR-025047",
+    "items": [
+      {
+        "brand": "Cetcip",
+        "generic": "Cetirizine",
+        "strength": "10mg",
+        "qty": 2,
+        "price": 251.23,
+        "gst": 12,
+        "gst_amount": 60.295199999999994,
+        "line_total": 562.7552,
+        "batch": "BKAH10S6",
+        "is_banned": false
+      },
+      {
+        "brand": "Azithral 500",
+        "generic": "Azithromycin",
+        "strength": "500mg",
+        "qty": 3,
+        "price": 67.56,
+        "gst": 18,
+        "gst_amount": 36.482400000000005,
+        "line_total": 239.16240000000002,
+        "batch": "6YOCZJBI",
+        "is_banned": false
+      },
+      {
+        "brand": "Nimesulide DT",
+        "generic": "Nimesulide",
+        "strength": "100mg",
+        "qty": 2,
+        "price": 209.85,
+        "gst": 5,
+        "gst_amount": 20.985,
+        "line_total": 440.685,
+        "batch": "RKSTZDKN",
+        "is_banned": true
+      }
+    ]
+  },
+  {
+    "invoice_id": "TEST-0028",
+    "pdf": "output\\test\\TEST-0028.pdf",
+    "pharmacy": "GreenLife Drug House",
+    "date": "2025-07-31",
+    "doctor": "DR-116436",
+    "items": [
+      {
+        "brand": "Oflox-OZ",
+        "generic": "Ofloxacin + Ornidazole",
+        "strength": "200/500mg",
+        "qty": 3,
+        "price": 50.86,
+        "gst": 5,
+        "gst_amount": 7.628999999999999,
+        "line_total": 160.20899999999997,
+        "batch": "3W57BRP6",
+        "is_banned": false
+      },
+      {
+        "brand": "Cefixime 200",
+        "generic": "Cefixime",
+        "strength": "200mg",
+        "qty": 3,
+        "price": 187.04,
+        "gst": 18,
+        "gst_amount": 101.0016,
+        "line_total": 662.1216,
+        "batch": "K40GSION",
+        "is_banned": false
+      },
+      {
+        "brand": "Nimesulide DT",
+        "generic": "Nimesulide",
+        "strength": "100mg",
+        "qty": 1,
+        "price": 354.19,
+        "gst": 12,
+        "gst_amount": 42.5028,
+        "line_total": 396.6928,
+        "batch": "KZE63SEE",
+        "is_banned": true
+      }
+    ]
+  },
+  {
+    "invoice_id": "TEST-0029",
+    "pdf": "output\\test\\TEST-0029.pdf",
+    "pharmacy": "GreenLife Drug House",
+    "date": "2025-06-03",
+    "doctor": "DR-340369",
+    "items": [
+      {
+        "brand": "Cefixime 200",
+        "generic": "Cefixime",
+        "strength": "200mg",
+        "qty": 3,
+        "price": 258.26,
+        "gst": 18,
+        "gst_amount": 139.4604,
+        "line_total": 914.2403999999999,
+        "batch": "PRAN6Q6Y",
+        "is_banned": false
+      },
+      {
+        "brand": "Nimesulide DT",
+        "generic": "Nimesulide",
+        "strength": "100mg",
+        "qty": 3,
+        "price": 84.32,
+        "gst": 18,
+        "gst_amount": 45.532799999999995,
+        "line_total": 298.4928,
+        "batch": "RB20EMA2",
+        "is_banned": true
+      },
+      {
+        "brand": "Nimesulide DT",
+        "generic": "Nimesulide",
+        "strength": "100mg",
+        "qty": 2,
+        "price": 158.9,
+        "gst": 18,
+        "gst_amount": 57.20400000000001,
+        "line_total": 375.004,
+        "batch": "PFRN7BVL",
+        "is_banned": true
+      },
+      {
+        "brand": "Nimesulide DT",
+        "generic": "Nimesulide",
+        "strength": "100mg",
+        "qty": 1,
+        "price": 176.16,
+        "gst": 12,
+        "gst_amount": 21.139200000000002,
+        "line_total": 197.29919999999998,
+        "batch": "UZOGC1YV",
+        "is_banned": true
+      }
+    ]
+  },
+  {
+    "invoice_id": "TEST-0030",
+    "pdf": "output\\test\\TEST-0030.pdf",
+    "pharmacy": "TrustCare Pharma",
+    "date": "2025-04-16",
+    "doctor": "DR-051076",
+    "items": [
+      {
+        "brand": "Amoxyclav",
+        "generic": "Amoxicillin + Clavulanic Acid",
+        "strength": "500/125mg",
+        "qty": 2,
+        "price": 72.52,
+        "gst": 18,
+        "gst_amount": 26.1072,
+        "line_total": 171.1472,
+        "batch": "YQDSZEZA",
+        "is_banned": false
+      },
+      {
+        "brand": "Oflox-OZ",
+        "generic": "Ofloxacin + Ornidazole",
+        "strength": "200/500mg",
+        "qty": 1,
+        "price": 392.73,
+        "gst": 18,
+        "gst_amount": 70.6914,
+        "line_total": 463.4214,
+        "batch": "3YF9T3H2",
+        "is_banned": false
+      }
+    ]
+  },
+  {
+    "invoice_id": "TEST-0031",
+    "pdf": "output\\test\\TEST-0031.pdf",
+    "pharmacy": "HealthPlus Medical Store",
+    "date": "2025-12-06",
+    "doctor": "DR-523245",
+    "items": [
+      {
+        "brand": "Oflox-OZ",
+        "generic": "Ofloxacin + Ornidazole",
+        "strength": "200/500mg",
+        "qty": 2,
+        "price": 117.32,
+        "gst": 12,
+        "gst_amount": 28.156799999999997,
+        "line_total": 262.79679999999996,
+        "batch": "NGIUBOUF",
+        "is_banned": false
+      },
+      {
+        "brand": "Analgin",
+        "generic": "Metamizole",
+        "strength": "500mg",
+        "qty": 3,
+        "price": 204.81,
+        "gst": 5,
+        "gst_amount": 30.721500000000006,
+        "line_total": 645.1515,
+        "batch": "UHCXRGFP",
+        "is_banned": true
+      }
+    ]
+  },
+  {
+    "invoice_id": "TEST-0032",
+    "pdf": "output\\test\\TEST-0032.pdf",
+    "pharmacy": "GreenLife Drug House",
+    "date": "2025-12-05",
+    "doctor": "DR-531879",
+    "items": [
+      {
+        "brand": "Amoxyclav",
+        "generic": "Amoxicillin + Clavulanic Acid",
+        "strength": "500/125mg",
+        "qty": 1,
+        "price": 112.21,
+        "gst": 5,
+        "gst_amount": 5.610499999999999,
+        "line_total": 117.8205,
+        "batch": "KZD3F6CC",
+        "is_banned": false
+      },
+      {
+        "brand": "Cefixime 200",
+        "generic": "Cefixime",
+        "strength": "200mg",
+        "qty": 3,
+        "price": 165.93,
+        "gst": 18,
+        "gst_amount": 89.60220000000001,
+        "line_total": 587.3922,
+        "batch": "RW7DR43R",
+        "is_banned": false
+      }
+    ]
+  },
+  {
+    "invoice_id": "TEST-0033",
+    "pdf": "output\\test\\TEST-0033.pdf",
+    "pharmacy": "HealthPlus Medical Store",
+    "date": "2025-04-08",
+    "doctor": "DR-525235",
+    "items": [
+      {
+        "brand": "Corex",
+        "generic": "Codeine + CPM",
+        "strength": "10mg/4mg",
+        "qty": 2,
+        "price": 343.14,
+        "gst": 12,
+        "gst_amount": 82.3536,
+        "line_total": 768.6336,
+        "batch": "MLSBEFMG",
+        "is_banned": true
+      },
+      {
+        "brand": "Nimesulide DT",
+        "generic": "Nimesulide",
+        "strength": "100mg",
+        "qty": 1,
+        "price": 370.45,
+        "gst": 12,
+        "gst_amount": 44.45399999999999,
+        "line_total": 414.904,
+        "batch": "M0HTNDHU",
+        "is_banned": true
+      },
+      {
+        "brand": "Analgin",
+        "generic": "Metamizole",
+        "strength": "500mg",
+        "qty": 3,
+        "price": 230.65,
+        "gst": 12,
+        "gst_amount": 83.03400000000002,
+        "line_total": 774.984,
+        "batch": "M26X8BYH",
+        "is_banned": true
+      },
+      {
+        "brand": "Analgin",
+        "generic": "Metamizole",
+        "strength": "500mg",
+        "qty": 2,
+        "price": 281.41,
+        "gst": 5,
+        "gst_amount": 28.141000000000005,
+        "line_total": 590.961,
+        "batch": "WBKMC66U",
+        "is_banned": true
+      }
+    ]
+  },
+  {
+    "invoice_id": "TEST-0034",
+    "pdf": "output\\test\\TEST-0034.pdf",
+    "pharmacy": "CityMed Pharmacy",
+    "date": "2025-11-18",
+    "doctor": "DR-541146",
+    "items": [
+      {
+        "brand": "Nimesulide DT",
+        "generic": "Nimesulide",
+        "strength": "100mg",
+        "qty": 1,
+        "price": 126.61,
+        "gst": 5,
+        "gst_amount": 6.3305,
+        "line_total": 132.9405,
+        "batch": "WERFDU4S",
+        "is_banned": true
+      },
+      {
+        "brand": "Nimesulide DT",
+        "generic": "Nimesulide",
+        "strength": "100mg",
+        "qty": 3,
+        "price": 285.22,
+        "gst": 18,
+        "gst_amount": 154.0188,
+        "line_total": 1009.6788000000001,
+        "batch": "V4WVYZ1C",
+        "is_banned": true
+      },
+      {
+        "brand": "Amoxyclav",
+        "generic": "Amoxicillin + Clavulanic Acid",
+        "strength": "500/125mg",
+        "qty": 1,
+        "price": 107.73,
+        "gst": 5,
+        "gst_amount": 5.3865,
+        "line_total": 113.1165,
+        "batch": "DKA6R0F1",
+        "is_banned": false
+      },
+      {
+        "brand": "Cetcip",
+        "generic": "Cetirizine",
+        "strength": "10mg",
+        "qty": 2,
+        "price": 211.08,
+        "gst": 12,
+        "gst_amount": 50.6592,
+        "line_total": 472.8192,
+        "batch": "R8QF0O8R",
+        "is_banned": false
+      }
+    ]
+  },
+  {
+    "invoice_id": "TEST-0035",
+    "pdf": "output\\test\\TEST-0035.pdf",
+    "pharmacy": "TrustCare Pharma",
+    "date": "2025-10-02",
+    "doctor": "DR-480095",
+    "items": [
+      {
+        "brand": "Azithral 500",
+        "generic": "Azithromycin",
+        "strength": "500mg",
+        "qty": 2,
+        "price": 102.28,
+        "gst": 5,
+        "gst_amount": 10.228,
+        "line_total": 214.788,
+        "batch": "EFJFTOLR",
+        "is_banned": false
+      },
+      {
+        "brand": "Amoxyclav",
+        "generic": "Amoxicillin + Clavulanic Acid",
+        "strength": "500/125mg",
+        "qty": 2,
+        "price": 72.07,
+        "gst": 5,
+        "gst_amount": 7.206999999999999,
+        "line_total": 151.34699999999998,
+        "batch": "YQIMPA2P",
+        "is_banned": false
+      },
+      {
+        "brand": "Analgin",
+        "generic": "Metamizole",
+        "strength": "500mg",
+        "qty": 3,
+        "price": 312.64,
+        "gst": 5,
+        "gst_amount": 46.895999999999994,
+        "line_total": 984.8159999999999,
+        "batch": "M6NLPGBQ",
+        "is_banned": true
+      }
+    ]
+  },
+  {
+    "invoice_id": "TEST-0036",
+    "pdf": "output\\test\\TEST-0036.pdf",
+    "pharmacy": "GreenLife Drug House",
+    "date": "2025-10-07",
+    "doctor": "DR-796951",
+    "items": [
+      {
+        "brand": "Nimesulide DT",
+        "generic": "Nimesulide",
+        "strength": "100mg",
+        "qty": 2,
+        "price": 354.39,
+        "gst": 12,
+        "gst_amount": 85.0536,
+        "line_total": 793.8335999999999,
+        "batch": "000V2P36",
+        "is_banned": true
+      },
+      {
+        "brand": "Amoxyclav",
+        "generic": "Amoxicillin + Clavulanic Acid",
+        "strength": "500/125mg",
+        "qty": 1,
+        "price": 297.58,
+        "gst": 18,
+        "gst_amount": 53.5644,
+        "line_total": 351.14439999999996,
+        "batch": "381V6PW0",
+        "is_banned": false
+      },
+      {
+        "brand": "Corex",
+        "generic": "Codeine + CPM",
+        "strength": "10mg/4mg",
+        "qty": 3,
+        "price": 279.83,
+        "gst": 18,
+        "gst_amount": 151.1082,
+        "line_total": 990.5982,
+        "batch": "GR9A4ELV",
+        "is_banned": true
+      },
+      {
+        "brand": "Analgin",
+        "generic": "Metamizole",
+        "strength": "500mg",
+        "qty": 3,
+        "price": 291.11,
+        "gst": 5,
+        "gst_amount": 43.666500000000006,
+        "line_total": 916.9965000000001,
+        "batch": "0700WAIA",
+        "is_banned": true
+      }
+    ]
+  },
+  {
+    "invoice_id": "TEST-0037",
+    "pdf": "output\\test\\TEST-0037.pdf",
+    "pharmacy": "HealthPlus Medical Store",
+    "date": "2025-12-01",
+    "doctor": "DR-380994",
+    "items": [
+      {
+        "brand": "Cetcip",
+        "generic": "Cetirizine",
+        "strength": "10mg",
+        "qty": 2,
+        "price": 296.41,
+        "gst": 5,
+        "gst_amount": 29.641000000000005,
+        "line_total": 622.461,
+        "batch": "FL9W57JS",
+        "is_banned": false
+      },
+      {
+        "brand": "Cefixime 200",
+        "generic": "Cefixime",
+        "strength": "200mg",
+        "qty": 3,
+        "price": 283.4,
+        "gst": 5,
+        "gst_amount": 42.51,
+        "line_total": 892.7099999999999,
+        "batch": "BKVSOEZI",
+        "is_banned": false
+      },
+      {
+        "brand": "Saridon",
+        "generic": "Paracetamol Combo",
+        "strength": "250/150/50mg",
+        "qty": 1,
+        "price": 189.5,
+        "gst": 5,
+        "gst_amount": 9.475,
+        "line_total": 198.975,
+        "batch": "93X21LRY",
+        "is_banned": true
+      }
+    ]
+  },
+  {
+    "invoice_id": "TEST-0038",
+    "pdf": "output\\test\\TEST-0038.pdf",
+    "pharmacy": "WellCare Medicals",
+    "date": "2025-10-28",
+    "doctor": "DR-820476",
+    "items": [
+      {
+        "brand": "Analgin",
+        "generic": "Metamizole",
+        "strength": "500mg",
+        "qty": 3,
+        "price": 265.24,
+        "gst": 18,
+        "gst_amount": 143.2296,
+        "line_total": 938.9496,
+        "batch": "6HQHKICU",
+        "is_banned": true
+      },
+      {
+        "brand": "Azithral 500",
+        "generic": "Azithromycin",
+        "strength": "500mg",
+        "qty": 2,
+        "price": 162.86,
+        "gst": 18,
+        "gst_amount": 58.62960000000001,
+        "line_total": 384.3496,
+        "batch": "3QP8T8FL",
+        "is_banned": false
+      },
+      {
+        "brand": "Cetcip",
+        "generic": "Cetirizine",
+        "strength": "10mg",
+        "qty": 3,
+        "price": 103.79,
+        "gst": 18,
+        "gst_amount": 56.0466,
+        "line_total": 367.4166,
+        "batch": "3FYRNUON",
+        "is_banned": false
+      },
+      {
+        "brand": "Amoxyclav",
+        "generic": "Amoxicillin + Clavulanic Acid",
+        "strength": "500/125mg",
+        "qty": 2,
+        "price": 347.75,
+        "gst": 18,
+        "gst_amount": 125.19,
+        "line_total": 820.69,
+        "batch": "IQFY05IO",
+        "is_banned": false
+      }
+    ]
+  },
+  {
+    "invoice_id": "TEST-0039",
+    "pdf": "output\\test\\TEST-0039.pdf",
+    "pharmacy": "CityMed Pharmacy",
+    "date": "2025-03-05",
+    "doctor": "DR-552161",
+    "items": [
+      {
+        "brand": "Analgin",
+        "generic": "Metamizole",
+        "strength": "500mg",
+        "qty": 3,
+        "price": 187.37,
+        "gst": 5,
+        "gst_amount": 28.105500000000003,
+        "line_total": 590.2155,
+        "batch": "SW1JHAC2",
+        "is_banned": true
+      },
+      {
+        "brand": "Oflox-OZ",
+        "generic": "Ofloxacin + Ornidazole",
+        "strength": "200/500mg",
+        "qty": 2,
+        "price": 32.94,
+        "gst": 5,
+        "gst_amount": 3.2939999999999996,
+        "line_total": 69.17399999999999,
+        "batch": "ZWCVF4GB",
+        "is_banned": false
+      },
+      {
+        "brand": "Amoxyclav",
+        "generic": "Amoxicillin + Clavulanic Acid",
+        "strength": "500/125mg",
+        "qty": 3,
+        "price": 141.66,
+        "gst": 12,
+        "gst_amount": 50.997600000000006,
+        "line_total": 475.97760000000005,
+        "batch": "9RI0UUTA",
+        "is_banned": false
+      }
+    ]
+  },
+  {
+    "invoice_id": "TEST-0040",
+    "pdf": "output\\test\\TEST-0040.pdf",
+    "pharmacy": "GreenLife Drug House",
+    "date": "2025-01-15",
+    "doctor": "DR-973741",
+    "items": [
+      {
+        "brand": "Nimesulide DT",
+        "generic": "Nimesulide",
+        "strength": "100mg",
+        "qty": 2,
+        "price": 147.99,
+        "gst": 5,
+        "gst_amount": 14.799000000000001,
+        "line_total": 310.779,
+        "batch": "HWQBP4F0",
+        "is_banned": true
+      },
+      {
+        "brand": "Cetcip",
+        "generic": "Cetirizine",
+        "strength": "10mg",
+        "qty": 1,
+        "price": 150.56,
+        "gst": 5,
+        "gst_amount": 7.528,
+        "line_total": 158.088,
+        "batch": "1MOJKX29",
+        "is_banned": false
+      }
+    ]
+  },
+  {
+    "invoice_id": "TEST-0041",
+    "pdf": "output\\test\\TEST-0041.pdf",
+    "pharmacy": "HealthPlus Medical Store",
+    "date": "2025-02-10",
+    "doctor": "DR-636832",
+    "items": [
+      {
+        "brand": "Dolo 650",
+        "generic": "Paracetamol",
+        "strength": "650mg",
+        "qty": 1,
+        "price": 346.52,
+        "gst": 5,
+        "gst_amount": 17.326,
+        "line_total": 363.846,
+        "batch": "TJ2IDUG1",
+        "is_banned": false
+      },
+      {
+        "brand": "Cetcip",
+        "generic": "Cetirizine",
+        "strength": "10mg",
+        "qty": 2,
+        "price": 179.74,
+        "gst": 18,
+        "gst_amount": 64.7064,
+        "line_total": 424.18640000000005,
+        "batch": "3B1HS4S4",
+        "is_banned": false
+      },
+      {
+        "brand": "Saridon",
+        "generic": "Paracetamol Combo",
+        "strength": "250/150/50mg",
+        "qty": 3,
+        "price": 391.9,
+        "gst": 18,
+        "gst_amount": 211.62599999999998,
+        "line_total": 1387.3259999999998,
+        "batch": "I1I1LT25",
+        "is_banned": true
+      }
+    ]
+  },
+  {
+    "invoice_id": "TEST-0042",
+    "pdf": "output\\test\\TEST-0042.pdf",
+    "pharmacy": "TrustCare Pharma",
+    "date": "2025-11-09",
+    "doctor": "DR-655846",
+    "items": [
+      {
+        "brand": "Corex",
+        "generic": "Codeine + CPM",
+        "strength": "10mg/4mg",
+        "qty": 3,
+        "price": 201.58,
+        "gst": 5,
+        "gst_amount": 30.237,
+        "line_total": 634.977,
+        "batch": "JNYW8ZGK",
+        "is_banned": true
+      },
+      {
+        "brand": "Amoxyclav",
+        "generic": "Amoxicillin + Clavulanic Acid",
+        "strength": "500/125mg",
+        "qty": 3,
+        "price": 334.69,
+        "gst": 12,
+        "gst_amount": 120.4884,
+        "line_total": 1124.5584,
+        "batch": "E06UMFRM",
+        "is_banned": false
+      }
+    ]
+  },
+  {
+    "invoice_id": "TEST-0043",
+    "pdf": "output\\test\\TEST-0043.pdf",
+    "pharmacy": "HealthPlus Medical Store",
+    "date": "2025-09-29",
+    "doctor": "DR-131505",
+    "items": [
+      {
+        "brand": "Cefixime 200",
+        "generic": "Cefixime",
+        "strength": "200mg",
+        "qty": 1,
+        "price": 232.13,
+        "gst": 5,
+        "gst_amount": 11.6065,
+        "line_total": 243.7365,
+        "batch": "Y2LC48XD",
+        "is_banned": false
+      },
+      {
+        "brand": "Oflox-OZ",
+        "generic": "Ofloxacin + Ornidazole",
+        "strength": "200/500mg",
+        "qty": 1,
+        "price": 132.25,
+        "gst": 18,
+        "gst_amount": 23.805,
+        "line_total": 156.055,
+        "batch": "924KKCEJ",
+        "is_banned": false
+      }
+    ]
+  },
+  {
+    "invoice_id": "TEST-0044",
+    "pdf": "output\\test\\TEST-0044.pdf",
+    "pharmacy": "HealthPlus Medical Store",
+    "date": "2025-06-01",
+    "doctor": "DR-103458",
+    "items": [
+      {
+        "brand": "Cetcip",
+        "generic": "Cetirizine",
+        "strength": "10mg",
+        "qty": 2,
+        "price": 152.84,
+        "gst": 18,
+        "gst_amount": 55.0224,
+        "line_total": 360.7024,
+        "batch": "QASTW67M",
+        "is_banned": false
+      },
+      {
+        "brand": "Nimesulide DT",
+        "generic": "Nimesulide",
+        "strength": "100mg",
+        "qty": 1,
+        "price": 333.37,
+        "gst": 12,
+        "gst_amount": 40.004400000000004,
+        "line_total": 373.37440000000004,
+        "batch": "08LFIG3W",
+        "is_banned": true
+      },
+      {
+        "brand": "Amoxyclav",
+        "generic": "Amoxicillin + Clavulanic Acid",
+        "strength": "500/125mg",
+        "qty": 2,
+        "price": 70.64,
+        "gst": 18,
+        "gst_amount": 25.4304,
+        "line_total": 166.7104,
+        "batch": "9BCF1R5E",
+        "is_banned": false
+      },
+      {
+        "brand": "Amoxyclav",
+        "generic": "Amoxicillin + Clavulanic Acid",
+        "strength": "500/125mg",
+        "qty": 1,
+        "price": 251.13,
+        "gst": 5,
+        "gst_amount": 12.556500000000002,
+        "line_total": 263.6865,
+        "batch": "IPVMAQKO",
+        "is_banned": false
+      }
+    ]
+  },
+  {
+    "invoice_id": "TEST-0045",
+    "pdf": "output\\test\\TEST-0045.pdf",
+    "pharmacy": "GreenLife Drug House",
+    "date": "2025-08-15",
+    "doctor": "DR-411346",
+    "items": [
+      {
+        "brand": "Cefixime 200",
+        "generic": "Cefixime",
+        "strength": "200mg",
+        "qty": 2,
+        "price": 142.12,
+        "gst": 12,
+        "gst_amount": 34.1088,
+        "line_total": 318.3488,
+        "batch": "2TEIUV1F",
+        "is_banned": false
+      },
+      {
+        "brand": "Nimesulide DT",
+        "generic": "Nimesulide",
+        "strength": "100mg",
+        "qty": 3,
+        "price": 236.41,
+        "gst": 18,
+        "gst_amount": 127.6614,
+        "line_total": 836.8914,
+        "batch": "0SQ994GG",
+        "is_banned": true
+      },
+      {
+        "brand": "Cetcip",
+        "generic": "Cetirizine",
+        "strength": "10mg",
+        "qty": 1,
+        "price": 383.95,
+        "gst": 5,
+        "gst_amount": 19.1975,
+        "line_total": 403.1475,
+        "batch": "JSEY3GD0",
+        "is_banned": false
+      }
+    ]
+  },
+  {
+    "invoice_id": "TEST-0046",
+    "pdf": "output\\test\\TEST-0046.pdf",
+    "pharmacy": "TrustCare Pharma",
+    "date": "2025-04-17",
+    "doctor": "DR-222611",
+    "items": [
+      {
+        "brand": "Cetcip",
+        "generic": "Cetirizine",
+        "strength": "10mg",
+        "qty": 1,
+        "price": 395.28,
+        "gst": 12,
+        "gst_amount": 47.4336,
+        "line_total": 442.7136,
+        "batch": "TRNRGI21",
+        "is_banned": false
+      },
+      {
+        "brand": "Analgin",
+        "generic": "Metamizole",
+        "strength": "500mg",
+        "qty": 3,
+        "price": 162.84,
+        "gst": 12,
+        "gst_amount": 58.6224,
+        "line_total": 547.1424,
+        "batch": "LYYMN5B2",
+        "is_banned": true
+      },
+      {
+        "brand": "Saridon",
+        "generic": "Paracetamol Combo",
+        "strength": "250/150/50mg",
+        "qty": 3,
+        "price": 223.58,
+        "gst": 12,
+        "gst_amount": 80.4888,
+        "line_total": 751.2288,
+        "batch": "BCDTZZEK",
+        "is_banned": true
+      }
+    ]
+  },
+  {
+    "invoice_id": "TEST-0047",
+    "pdf": "output\\test\\TEST-0047.pdf",
+    "pharmacy": "HealthPlus Medical Store",
+    "date": "2025-07-09",
+    "doctor": "DR-104482",
+    "items": [
+      {
+        "brand": "Cefixime 200",
+        "generic": "Cefixime",
+        "strength": "200mg",
+        "qty": 3,
+        "price": 353.28,
+        "gst": 18,
+        "gst_amount": 190.7712,
+        "line_total": 1250.6111999999998,
+        "batch": "OP1286RV",
+        "is_banned": false
+      },
+      {
+        "brand": "Saridon",
+        "generic": "Paracetamol Combo",
+        "strength": "250/150/50mg",
+        "qty": 2,
+        "price": 38.7,
+        "gst": 12,
+        "gst_amount": 9.288,
+        "line_total": 86.688,
+        "batch": "CH89YGTS",
+        "is_banned": true
+      }
+    ]
+  },
+  {
+    "invoice_id": "TEST-0048",
+    "pdf": "output\\test\\TEST-0048.pdf",
+    "pharmacy": "TrustCare Pharma",
+    "date": "2025-11-24",
+    "doctor": "DR-650842",
+    "items": [
+      {
+        "brand": "Cefixime 200",
+        "generic": "Cefixime",
+        "strength": "200mg",
+        "qty": 3,
+        "price": 397.75,
+        "gst": 18,
+        "gst_amount": 214.785,
+        "line_total": 1408.035,
+        "batch": "4YELES4E",
+        "is_banned": false
+      },
+      {
+        "brand": "Analgin",
+        "generic": "Metamizole",
+        "strength": "500mg",
+        "qty": 1,
+        "price": 173.38,
+        "gst": 5,
+        "gst_amount": 8.669,
+        "line_total": 182.049,
+        "batch": "20GYR4C4",
+        "is_banned": true
+      },
+      {
+        "brand": "Analgin",
+        "generic": "Metamizole",
+        "strength": "500mg",
+        "qty": 3,
+        "price": 78.83,
+        "gst": 18,
+        "gst_amount": 42.5682,
+        "line_total": 279.0582,
+        "batch": "AINS44EY",
+        "is_banned": true
+      },
+      {
+        "brand": "Azithral 500",
+        "generic": "Azithromycin",
+        "strength": "500mg",
+        "qty": 2,
+        "price": 295.73,
+        "gst": 18,
+        "gst_amount": 106.4628,
+        "line_total": 697.9228,
+        "batch": "ZFVVFPFK",
+        "is_banned": false
+      }
+    ]
+  },
+  {
+    "invoice_id": "TEST-0049",
+    "pdf": "output\\test\\TEST-0049.pdf",
+    "pharmacy": "CityMed Pharmacy",
+    "date": "2025-07-27",
+    "doctor": "DR-677903",
+    "items": [
+      {
+        "brand": "Corex",
+        "generic": "Codeine + CPM",
+        "strength": "10mg/4mg",
+        "qty": 2,
+        "price": 43.12,
+        "gst": 12,
+        "gst_amount": 10.348799999999999,
+        "line_total": 96.58879999999999,
+        "batch": "6C0J0DYN",
+        "is_banned": true
+      },
+      {
+        "brand": "Cefixime 200",
+        "generic": "Cefixime",
+        "strength": "200mg",
+        "qty": 3,
+        "price": 312.17,
+        "gst": 5,
+        "gst_amount": 46.825500000000005,
+        "line_total": 983.3355,
+        "batch": "SISCZILF",
+        "is_banned": false
+      },
+      {
+        "brand": "Azithral 500",
+        "generic": "Azithromycin",
+        "strength": "500mg",
+        "qty": 3,
+        "price": 197.93,
+        "gst": 18,
+        "gst_amount": 106.8822,
+        "line_total": 700.6722,
+        "batch": "ONGCIBLS",
+        "is_banned": false
+      }
+    ]
+  },
+  {
+    "invoice_id": "TEST-0050",
+    "pdf": "output\\test\\TEST-0050.pdf",
+    "pharmacy": "TrustCare Pharma",
+    "date": "2025-07-20",
+    "doctor": "DR-837291",
+    "items": [
+      {
+        "brand": "Cefixime 200",
+        "generic": "Cefixime",
+        "strength": "200mg",
+        "qty": 1,
+        "price": 263.79,
+        "gst": 5,
+        "gst_amount": 13.1895,
+        "line_total": 276.97950000000003,
+        "batch": "S5B0UIJ8",
+        "is_banned": false
+      },
+      {
+        "brand": "Azithral 500",
+        "generic": "Azithromycin",
+        "strength": "500mg",
+        "qty": 3,
+        "price": 155.87,
+        "gst": 18,
+        "gst_amount": 84.1698,
+        "line_total": 551.7798,
+        "batch": "W5IA5OE6",
+        "is_banned": false
+      },
+      {
+        "brand": "Saridon",
+        "generic": "Paracetamol Combo",
+        "strength": "250/150/50mg",
+        "qty": 2,
+        "price": 263.73,
+        "gst": 12,
+        "gst_amount": 63.2952,
+        "line_total": 590.7552000000001,
+        "batch": "QJATGTQB",
+        "is_banned": true
+      },
+      {
+        "brand": "Cetcip",
+        "generic": "Cetirizine",
+        "strength": "10mg",
+        "qty": 3,
+        "price": 269.05,
+        "gst": 12,
+        "gst_amount": 96.858,
+        "line_total": 904.008,
+        "batch": "GHVQTLFP",
+        "is_banned": false
+      }
+    ]
+  }
+]

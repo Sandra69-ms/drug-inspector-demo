@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Drug Inspector – Invoice Upload</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 30px;
+        }
+        .box {
+            border: 1px solid #ccc;
+            padding: 15px;
+            margin-bottom: 20px;
+            border-radius: 5px;
+        }
+        pre {
+            background: #f7f7f7;
+            padding: 10px;
+            white-space: pre-wrap;
+            font-size: 14px;
+        }
+        .safe {
+            color: green;
+            font-weight: bold;
+        }
+        .danger {
+            color: red;
+            font-weight: bold;
+        }
+        .error {
+            color: darkred;
+            font-weight: bold;
+        }
+    </style>
+</head>
+<body>
+
+<h2>Drug Inspector – Invoice OCR Scanner</h2>
+
+<!-- Display Flask error messages -->
+{% with messages = get_flashed_messages() %}
+  {% if messages %}
+    <div class="error">
+        {% for message in messages %}
+            <p>{{ message }}</p>
+        {% endfor %}
+    </div>
+  {% endif %}
+{% endwith %}
+
+<!-- Upload Form -->
+<form action="/upload" method="post" enctype="multipart/form-data">
+    <input type="file" name="file" required>
+    <button type="submit">Upload & Scan</button>
+</form>
+
+<hr>
+
+<!-- Uploaded file name -->
+{% if filename %}
+    <h3>Uploaded Invoice: {{ filename }}</h3>
+{% endif %}
+
+<!-- OCR OUTPUT -->
+{% if ocr_pages %}
+    <h3>OCR Extracted Text</h3>
+    {% for page in ocr_pages %}
+        <div class="box">
+            <pre>{{ page }}</pre>
+        </div>
+    {% endfor %}
+{% endif %}
+
+<!-- BANNED DRUG RESULT -->
+{% if banned_drugs is not none %}
+    <hr>
+    {% if banned_drugs|length > 0 %}
+        <h2 class="danger">⚠️ BANNED DRUG(S) FOUND IN THIS INVOICE</h2>
+        <ul>
+            {% for drug in banned_drugs %}
+                <li><b>{{ drug }}</b></li>
+            {% endfor %}
+        </ul>
+    {% else %}
+        <h2 class="safe">✅ NO BANNED DRUG FOUND IN THIS INVOICE</h2>
+    {% endif %}
+{% endif %}
+
+</body>
+</html>
+
+
+
+
+
+
+

@@ -1,0 +1,9 @@
+reportlab==4.0.0
+Pillow==10.0.0
+Flask==2.3.3
+python-dotenv==1.0.0
+Flaskpdf2image
+pytesseract
+rapidfuzz
+python-dotenv
+
