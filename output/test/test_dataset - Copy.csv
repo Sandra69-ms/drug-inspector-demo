@@ -1,0 +1,153 @@
+invoice_id,pdf,pharmacy,date,doctor,brand,generic,strength,batch,qty,price,gst,line_total,is_banned
+TEST-0001,output\test\TEST-0001.pdf,TrustCare Pharma,2024-12-17,DR-923596,Corex,Codeine + CPM,10mg/4mg,9GJUSPON,2,89.95,5,188.90,True
+TEST-0001,output\test\TEST-0001.pdf,TrustCare Pharma,2024-12-17,DR-923596,Amoxyclav,Amoxicillin + Clavulanic Acid,500/125mg,60ROKSRR,3,183.94,5,579.41,False
+TEST-0001,output\test\TEST-0001.pdf,TrustCare Pharma,2024-12-17,DR-923596,Azithral 500,Azithromycin,500mg,P8GYQX18,2,180.32,5,378.67,False
+TEST-0001,output\test\TEST-0001.pdf,TrustCare Pharma,2024-12-17,DR-923596,Dolo 650,Paracetamol,650mg,91P3QVL1,1,278.21,18,328.29,False
+TEST-0002,output\test\TEST-0002.pdf,WellCare Medicals,2025-06-20,DR-967780,Azithral 500,Azithromycin,500mg,KM78YCL1,1,105.27,12,117.90,False
+TEST-0002,output\test\TEST-0002.pdf,WellCare Medicals,2025-06-20,DR-967780,Saridon,Paracetamol Combo,250/150/50mg,ZY0OLP3U,1,158.62,5,166.55,True
+TEST-0002,output\test\TEST-0002.pdf,WellCare Medicals,2025-06-20,DR-967780,Saridon,Paracetamol Combo,250/150/50mg,9BK5BYT1,3,272.80,12,916.61,True
+TEST-0002,output\test\TEST-0002.pdf,WellCare Medicals,2025-06-20,DR-967780,Analgin,Metamizole,500mg,JDUGRXPL,2,206.81,5,434.30,True
+TEST-0003,output\test\TEST-0003.pdf,CityMed Pharmacy,2025-10-23,DR-104115,Dolo 650,Paracetamol,650mg,64GA8V2C,1,274.99,12,307.99,False
+TEST-0003,output\test\TEST-0003.pdf,CityMed Pharmacy,2025-10-23,DR-104115,Nimesulide DT,Nimesulide,100mg,QXNJ2660,1,262.28,12,293.75,True
+TEST-0003,output\test\TEST-0003.pdf,CityMed Pharmacy,2025-10-23,DR-104115,Cefixime 200,Cefixime,200mg,BDD0IFLB,3,80.98,12,272.09,False
+TEST-0003,output\test\TEST-0003.pdf,CityMed Pharmacy,2025-10-23,DR-104115,Cefixime 200,Cefixime,200mg,ND4XVZN6,1,381.20,18,449.82,False
+TEST-0004,output\test\TEST-0004.pdf,HealthPlus Medical Store,2025-06-17,DR-597453,Oflox-OZ,Ofloxacin + Ornidazole,200/500mg,ZJXJFODE,2,191.68,5,402.53,False
+TEST-0004,output\test\TEST-0004.pdf,HealthPlus Medical Store,2025-06-17,DR-597453,Analgin,Metamizole,500mg,HD0R6VXC,3,190.16,12,638.94,True
+TEST-0005,output\test\TEST-0005.pdf,TrustCare Pharma,2025-11-24,DR-160046,Cetcip,Cetirizine,10mg,LJJ9AKP5,3,135.76,18,480.59,False
+TEST-0005,output\test\TEST-0005.pdf,TrustCare Pharma,2025-11-24,DR-160046,Corex,Codeine + CPM,10mg/4mg,E1DDASCU,1,341.88,5,358.97,True
+TEST-0005,output\test\TEST-0005.pdf,TrustCare Pharma,2025-11-24,DR-160046,Analgin,Metamizole,500mg,UM85EKQW,2,97.12,12,217.55,True
+TEST-0005,output\test\TEST-0005.pdf,TrustCare Pharma,2025-11-24,DR-160046,Cefixime 200,Cefixime,200mg,166HM5LR,1,318.44,5,334.36,False
+TEST-0006,output\test\TEST-0006.pdf,GreenLife Drug House,2025-11-29,DR-261923,Corex,Codeine + CPM,10mg/4mg,3KBTUDEL,1,152.75,18,180.25,True
+TEST-0006,output\test\TEST-0006.pdf,GreenLife Drug House,2025-11-29,DR-261923,Azithral 500,Azithromycin,500mg,NDOY7SCZ,1,324.06,12,362.95,False
+TEST-0006,output\test\TEST-0006.pdf,GreenLife Drug House,2025-11-29,DR-261923,Oflox-OZ,Ofloxacin + Ornidazole,200/500mg,VVZPYZDN,1,196.17,18,231.48,False
+TEST-0006,output\test\TEST-0006.pdf,GreenLife Drug House,2025-11-29,DR-261923,Oflox-OZ,Ofloxacin + Ornidazole,200/500mg,2QU2M9TY,2,226.23,12,506.76,False
+TEST-0007,output\test\TEST-0007.pdf,CityMed Pharmacy,2025-02-12,DR-989220,Saridon,Paracetamol Combo,250/150/50mg,SU5FQVLE,2,92.37,5,193.98,True
+TEST-0007,output\test\TEST-0007.pdf,CityMed Pharmacy,2025-02-12,DR-989220,Oflox-OZ,Ofloxacin + Ornidazole,200/500mg,85J9EUXK,2,104.89,18,247.54,False
+TEST-0007,output\test\TEST-0007.pdf,CityMed Pharmacy,2025-02-12,DR-989220,Analgin,Metamizole,500mg,8MKKBM9V,2,391.60,18,924.18,True
+TEST-0007,output\test\TEST-0007.pdf,CityMed Pharmacy,2025-02-12,DR-989220,Dolo 650,Paracetamol,650mg,U8ZG5MON,3,323.10,12,1085.62,False
+TEST-0008,output\test\TEST-0008.pdf,CityMed Pharmacy,2025-09-20,DR-037984,Dolo 650,Paracetamol,650mg,SZHIKP8L,3,39.30,5,123.79,False
+TEST-0008,output\test\TEST-0008.pdf,CityMed Pharmacy,2025-09-20,DR-037984,Corex,Codeine + CPM,10mg/4mg,QNT2RD3L,1,220.07,12,246.48,True
+TEST-0009,output\test\TEST-0009.pdf,GreenLife Drug House,2025-10-28,DR-332924,Cefixime 200,Cefixime,200mg,OOPKO5X0,3,390.75,18,1383.26,False
+TEST-0009,output\test\TEST-0009.pdf,GreenLife Drug House,2025-10-28,DR-332924,Nimesulide DT,Nimesulide,100mg,UAFAHZNN,3,387.31,12,1301.36,True
+TEST-0010,output\test\TEST-0010.pdf,GreenLife Drug House,2025-07-18,DR-097006,Analgin,Metamizole,500mg,M9JPS510,3,232.48,18,822.98,True
+TEST-0010,output\test\TEST-0010.pdf,GreenLife Drug House,2025-07-18,DR-097006,Azithral 500,Azithromycin,500mg,XECJTU2W,1,325.57,18,384.17,False
+TEST-0010,output\test\TEST-0010.pdf,GreenLife Drug House,2025-07-18,DR-097006,Azithral 500,Azithromycin,500mg,5ECAHBTG,3,161.24,12,541.77,False
+TEST-0010,output\test\TEST-0010.pdf,GreenLife Drug House,2025-07-18,DR-097006,Cetcip,Cetirizine,10mg,1F0C80HG,2,157.46,18,371.61,False
+TEST-0011,output\test\TEST-0011.pdf,GreenLife Drug House,2025-05-02,DR-875107,Dolo 650,Paracetamol,650mg,OHF640QS,2,123.59,5,259.54,False
+TEST-0011,output\test\TEST-0011.pdf,GreenLife Drug House,2025-05-02,DR-875107,Nimesulide DT,Nimesulide,100mg,512B6JTI,1,71.78,5,75.37,True
+TEST-0012,output\test\TEST-0012.pdf,HealthPlus Medical Store,2025-07-02,DR-170841,Cetcip,Cetirizine,10mg,PUHJZCZP,3,376.11,12,1263.73,False
+TEST-0012,output\test\TEST-0012.pdf,HealthPlus Medical Store,2025-07-02,DR-170841,Dolo 650,Paracetamol,650mg,XMEQVO4N,3,255.22,18,903.48,False
+TEST-0013,output\test\TEST-0013.pdf,CityMed Pharmacy,2025-09-22,DR-819475,Dolo 650,Paracetamol,650mg,2NVP8G4Q,1,180.78,5,189.82,False
+TEST-0013,output\test\TEST-0013.pdf,CityMed Pharmacy,2025-09-22,DR-819475,Analgin,Metamizole,500mg,SJKK467Q,3,165.42,18,585.59,True
+TEST-0014,output\test\TEST-0014.pdf,GreenLife Drug House,2025-10-22,DR-991876,Corex,Codeine + CPM,10mg/4mg,49SIUEIY,2,342.63,12,767.49,True
+TEST-0014,output\test\TEST-0014.pdf,GreenLife Drug House,2025-10-22,DR-991876,Amoxyclav,Amoxicillin + Clavulanic Acid,500/125mg,009GYA6J,2,365.12,5,766.75,False
+TEST-0014,output\test\TEST-0014.pdf,GreenLife Drug House,2025-10-22,DR-991876,Analgin,Metamizole,500mg,YBFRO075,3,375.56,5,1183.01,True
+TEST-0014,output\test\TEST-0014.pdf,GreenLife Drug House,2025-10-22,DR-991876,Amoxyclav,Amoxicillin + Clavulanic Acid,500/125mg,NTB4E57S,2,127.23,18,300.26,False
+TEST-0015,output\test\TEST-0015.pdf,HealthPlus Medical Store,2025-04-08,DR-456099,Amoxyclav,Amoxicillin + Clavulanic Acid,500/125mg,7ZBKV9ID,2,35.69,5,74.95,False
+TEST-0015,output\test\TEST-0015.pdf,HealthPlus Medical Store,2025-04-08,DR-456099,Amoxyclav,Amoxicillin + Clavulanic Acid,500/125mg,KMG5FLEA,3,40.04,18,141.74,False
+TEST-0015,output\test\TEST-0015.pdf,HealthPlus Medical Store,2025-04-08,DR-456099,Oflox-OZ,Ofloxacin + Ornidazole,200/500mg,1TD3TTN7,3,340.75,12,1144.92,False
+TEST-0015,output\test\TEST-0015.pdf,HealthPlus Medical Store,2025-04-08,DR-456099,Oflox-OZ,Ofloxacin + Ornidazole,200/500mg,17JJE4UZ,2,153.52,5,322.39,False
+TEST-0016,output\test\TEST-0016.pdf,TrustCare Pharma,2025-06-17,DR-473594,Cefixime 200,Cefixime,200mg,PUUG32W6,3,67.69,18,239.62,False
+TEST-0016,output\test\TEST-0016.pdf,TrustCare Pharma,2025-06-17,DR-473594,Azithral 500,Azithromycin,500mg,92TJZKLG,1,365.84,12,409.74,False
+TEST-0016,output\test\TEST-0016.pdf,TrustCare Pharma,2025-06-17,DR-473594,Saridon,Paracetamol Combo,250/150/50mg,XCBMFKOO,2,107.86,18,254.55,True
+TEST-0017,output\test\TEST-0017.pdf,HealthPlus Medical Store,2025-11-30,DR-481996,Azithral 500,Azithromycin,500mg,QU37L1AY,3,253.19,5,797.55,False
+TEST-0017,output\test\TEST-0017.pdf,HealthPlus Medical Store,2025-11-30,DR-481996,Cefixime 200,Cefixime,200mg,T2VUMWCN,2,322.78,18,761.76,False
+TEST-0018,output\test\TEST-0018.pdf,TrustCare Pharma,2025-05-16,DR-281687,Corex,Codeine + CPM,10mg/4mg,E172Z8FM,2,317.57,18,749.47,True
+TEST-0018,output\test\TEST-0018.pdf,TrustCare Pharma,2025-05-16,DR-281687,Oflox-OZ,Ofloxacin + Ornidazole,200/500mg,NANEHBGD,3,293.81,5,925.50,False
+TEST-0019,output\test\TEST-0019.pdf,WellCare Medicals,2025-05-12,DR-541689,Cefixime 200,Cefixime,200mg,DFD20R5J,3,348.98,18,1235.39,False
+TEST-0019,output\test\TEST-0019.pdf,WellCare Medicals,2025-05-12,DR-541689,Cefixime 200,Cefixime,200mg,4E0M9PWH,1,312.02,18,368.18,False
+TEST-0019,output\test\TEST-0019.pdf,WellCare Medicals,2025-05-12,DR-541689,Oflox-OZ,Ofloxacin + Ornidazole,200/500mg,EBKQECQ4,1,379.05,18,447.28,False
+TEST-0019,output\test\TEST-0019.pdf,WellCare Medicals,2025-05-12,DR-541689,Analgin,Metamizole,500mg,SW738T6U,1,277.79,5,291.68,True
+TEST-0020,output\test\TEST-0020.pdf,TrustCare Pharma,2025-08-13,DR-153342,Cetcip,Cetirizine,10mg,83BCSM9P,3,343.34,18,1215.42,False
+TEST-0020,output\test\TEST-0020.pdf,TrustCare Pharma,2025-08-13,DR-153342,Dolo 650,Paracetamol,650mg,MSH5MVT7,1,167.45,18,197.59,False
+TEST-0020,output\test\TEST-0020.pdf,TrustCare Pharma,2025-08-13,DR-153342,Cefixime 200,Cefixime,200mg,739LFATL,1,69.99,12,78.39,False
+TEST-0021,output\test\TEST-0021.pdf,TrustCare Pharma,2025-03-25,DR-267122,Corex,Codeine + CPM,10mg/4mg,FTEWIG9Y,2,76.48,5,160.61,True
+TEST-0021,output\test\TEST-0021.pdf,TrustCare Pharma,2025-03-25,DR-267122,Dolo 650,Paracetamol,650mg,80BB6RZI,1,34.86,18,41.13,False
+TEST-0021,output\test\TEST-0021.pdf,TrustCare Pharma,2025-03-25,DR-267122,Oflox-OZ,Ofloxacin + Ornidazole,200/500mg,XB45F0ZX,2,344.53,18,813.09,False
+TEST-0021,output\test\TEST-0021.pdf,TrustCare Pharma,2025-03-25,DR-267122,Corex,Codeine + CPM,10mg/4mg,T1C59Z63,1,127.14,12,142.40,True
+TEST-0022,output\test\TEST-0022.pdf,GreenLife Drug House,2025-04-01,DR-852091,Corex,Codeine + CPM,10mg/4mg,G83JYRFM,3,111.69,5,351.82,True
+TEST-0022,output\test\TEST-0022.pdf,GreenLife Drug House,2025-04-01,DR-852091,Cefixime 200,Cefixime,200mg,JAU94PFX,2,208.23,12,466.44,False
+TEST-0023,output\test\TEST-0023.pdf,TrustCare Pharma,2025-07-17,DR-561500,Amoxyclav,Amoxicillin + Clavulanic Acid,500/125mg,UGWU1T43,3,72.60,5,228.69,False
+TEST-0023,output\test\TEST-0023.pdf,TrustCare Pharma,2025-07-17,DR-561500,Oflox-OZ,Ofloxacin + Ornidazole,200/500mg,BKW3JQTT,2,135.55,18,319.90,False
+TEST-0023,output\test\TEST-0023.pdf,TrustCare Pharma,2025-07-17,DR-561500,Nimesulide DT,Nimesulide,100mg,O0KNJKJH,1,306.29,5,321.60,True
+TEST-0023,output\test\TEST-0023.pdf,TrustCare Pharma,2025-07-17,DR-561500,Oflox-OZ,Ofloxacin + Ornidazole,200/500mg,0NEZ3ZSO,3,177.68,5,559.69,False
+TEST-0024,output\test\TEST-0024.pdf,TrustCare Pharma,2025-11-21,DR-646203,Azithral 500,Azithromycin,500mg,6J0M71GY,3,81.88,5,257.92,False
+TEST-0024,output\test\TEST-0024.pdf,TrustCare Pharma,2025-11-21,DR-646203,Oflox-OZ,Ofloxacin + Ornidazole,200/500mg,3GH7GLLF,3,64.14,12,215.51,False
+TEST-0025,output\test\TEST-0025.pdf,HealthPlus Medical Store,2025-03-01,DR-195647,Amoxyclav,Amoxicillin + Clavulanic Acid,500/125mg,PRNV3Y0K,1,69.17,5,72.63,False
+TEST-0025,output\test\TEST-0025.pdf,HealthPlus Medical Store,2025-03-01,DR-195647,Analgin,Metamizole,500mg,G4KFDBEV,1,288.44,5,302.86,True
+TEST-0025,output\test\TEST-0025.pdf,HealthPlus Medical Store,2025-03-01,DR-195647,Corex,Codeine + CPM,10mg/4mg,8R7QRBI1,2,208.56,5,437.98,True
+TEST-0026,output\test\TEST-0026.pdf,GreenLife Drug House,2025-04-23,DR-081918,Nimesulide DT,Nimesulide,100mg,JNNNY0QP,1,369.76,5,388.25,True
+TEST-0026,output\test\TEST-0026.pdf,GreenLife Drug House,2025-04-23,DR-081918,Azithral 500,Azithromycin,500mg,OL86U588,2,217.91,5,457.61,False
+TEST-0027,output\test\TEST-0027.pdf,CityMed Pharmacy,2025-07-05,DR-025047,Cetcip,Cetirizine,10mg,BKAH10S6,2,251.23,12,562.76,False
+TEST-0027,output\test\TEST-0027.pdf,CityMed Pharmacy,2025-07-05,DR-025047,Azithral 500,Azithromycin,500mg,6YOCZJBI,3,67.56,18,239.16,False
+TEST-0027,output\test\TEST-0027.pdf,CityMed Pharmacy,2025-07-05,DR-025047,Nimesulide DT,Nimesulide,100mg,RKSTZDKN,2,209.85,5,440.69,True
+TEST-0028,output\test\TEST-0028.pdf,GreenLife Drug House,2025-07-31,DR-116436,Oflox-OZ,Ofloxacin + Ornidazole,200/500mg,3W57BRP6,3,50.86,5,160.21,False
+TEST-0028,output\test\TEST-0028.pdf,GreenLife Drug House,2025-07-31,DR-116436,Cefixime 200,Cefixime,200mg,K40GSION,3,187.04,18,662.12,False
+TEST-0028,output\test\TEST-0028.pdf,GreenLife Drug House,2025-07-31,DR-116436,Nimesulide DT,Nimesulide,100mg,KZE63SEE,1,354.19,12,396.69,True
+TEST-0029,output\test\TEST-0029.pdf,GreenLife Drug House,2025-06-03,DR-340369,Cefixime 200,Cefixime,200mg,PRAN6Q6Y,3,258.26,18,914.24,False
+TEST-0029,output\test\TEST-0029.pdf,GreenLife Drug House,2025-06-03,DR-340369,Nimesulide DT,Nimesulide,100mg,RB20EMA2,3,84.32,18,298.49,True
+TEST-0029,output\test\TEST-0029.pdf,GreenLife Drug House,2025-06-03,DR-340369,Nimesulide DT,Nimesulide,100mg,PFRN7BVL,2,158.90,18,375.00,True
+TEST-0029,output\test\TEST-0029.pdf,GreenLife Drug House,2025-06-03,DR-340369,Nimesulide DT,Nimesulide,100mg,UZOGC1YV,1,176.16,12,197.30,True
+TEST-0030,output\test\TEST-0030.pdf,TrustCare Pharma,2025-04-16,DR-051076,Amoxyclav,Amoxicillin + Clavulanic Acid,500/125mg,YQDSZEZA,2,72.52,18,171.15,False
+TEST-0030,output\test\TEST-0030.pdf,TrustCare Pharma,2025-04-16,DR-051076,Oflox-OZ,Ofloxacin + Ornidazole,200/500mg,3YF9T3H2,1,392.73,18,463.42,False
+TEST-0031,output\test\TEST-0031.pdf,HealthPlus Medical Store,2025-12-06,DR-523245,Oflox-OZ,Ofloxacin + Ornidazole,200/500mg,NGIUBOUF,2,117.32,12,262.80,False
+TEST-0031,output\test\TEST-0031.pdf,HealthPlus Medical Store,2025-12-06,DR-523245,Analgin,Metamizole,500mg,UHCXRGFP,3,204.81,5,645.15,True
+TEST-0032,output\test\TEST-0032.pdf,GreenLife Drug House,2025-12-05,DR-531879,Amoxyclav,Amoxicillin + Clavulanic Acid,500/125mg,KZD3F6CC,1,112.21,5,117.82,False
+TEST-0032,output\test\TEST-0032.pdf,GreenLife Drug House,2025-12-05,DR-531879,Cefixime 200,Cefixime,200mg,RW7DR43R,3,165.93,18,587.39,False
+TEST-0033,output\test\TEST-0033.pdf,HealthPlus Medical Store,2025-04-08,DR-525235,Corex,Codeine + CPM,10mg/4mg,MLSBEFMG,2,343.14,12,768.63,True
+TEST-0033,output\test\TEST-0033.pdf,HealthPlus Medical Store,2025-04-08,DR-525235,Nimesulide DT,Nimesulide,100mg,M0HTNDHU,1,370.45,12,414.90,True
+TEST-0033,output\test\TEST-0033.pdf,HealthPlus Medical Store,2025-04-08,DR-525235,Analgin,Metamizole,500mg,M26X8BYH,3,230.65,12,774.98,True
+TEST-0033,output\test\TEST-0033.pdf,HealthPlus Medical Store,2025-04-08,DR-525235,Analgin,Metamizole,500mg,WBKMC66U,2,281.41,5,590.96,True
+TEST-0034,output\test\TEST-0034.pdf,CityMed Pharmacy,2025-11-18,DR-541146,Nimesulide DT,Nimesulide,100mg,WERFDU4S,1,126.61,5,132.94,True
+TEST-0034,output\test\TEST-0034.pdf,CityMed Pharmacy,2025-11-18,DR-541146,Nimesulide DT,Nimesulide,100mg,V4WVYZ1C,3,285.22,18,1009.68,True
+TEST-0034,output\test\TEST-0034.pdf,CityMed Pharmacy,2025-11-18,DR-541146,Amoxyclav,Amoxicillin + Clavulanic Acid,500/125mg,DKA6R0F1,1,107.73,5,113.12,False
+TEST-0034,output\test\TEST-0034.pdf,CityMed Pharmacy,2025-11-18,DR-541146,Cetcip,Cetirizine,10mg,R8QF0O8R,2,211.08,12,472.82,False
+TEST-0035,output\test\TEST-0035.pdf,TrustCare Pharma,2025-10-02,DR-480095,Azithral 500,Azithromycin,500mg,EFJFTOLR,2,102.28,5,214.79,False
+TEST-0035,output\test\TEST-0035.pdf,TrustCare Pharma,2025-10-02,DR-480095,Amoxyclav,Amoxicillin + Clavulanic Acid,500/125mg,YQIMPA2P,2,72.07,5,151.35,False
+TEST-0035,output\test\TEST-0035.pdf,TrustCare Pharma,2025-10-02,DR-480095,Analgin,Metamizole,500mg,M6NLPGBQ,3,312.64,5,984.82,True
+TEST-0036,output\test\TEST-0036.pdf,GreenLife Drug House,2025-10-07,DR-796951,Nimesulide DT,Nimesulide,100mg,000V2P36,2,354.39,12,793.83,True
+TEST-0036,output\test\TEST-0036.pdf,GreenLife Drug House,2025-10-07,DR-796951,Amoxyclav,Amoxicillin + Clavulanic Acid,500/125mg,381V6PW0,1,297.58,18,351.14,False
+TEST-0036,output\test\TEST-0036.pdf,GreenLife Drug House,2025-10-07,DR-796951,Corex,Codeine + CPM,10mg/4mg,GR9A4ELV,3,279.83,18,990.60,True
+TEST-0036,output\test\TEST-0036.pdf,GreenLife Drug House,2025-10-07,DR-796951,Analgin,Metamizole,500mg,0700WAIA,3,291.11,5,917.00,True
+TEST-0037,output\test\TEST-0037.pdf,HealthPlus Medical Store,2025-12-01,DR-380994,Cetcip,Cetirizine,10mg,FL9W57JS,2,296.41,5,622.46,False
+TEST-0037,output\test\TEST-0037.pdf,HealthPlus Medical Store,2025-12-01,DR-380994,Cefixime 200,Cefixime,200mg,BKVSOEZI,3,283.40,5,892.71,False
+TEST-0037,output\test\TEST-0037.pdf,HealthPlus Medical Store,2025-12-01,DR-380994,Saridon,Paracetamol Combo,250/150/50mg,93X21LRY,1,189.50,5,198.97,True
+TEST-0038,output\test\TEST-0038.pdf,WellCare Medicals,2025-10-28,DR-820476,Analgin,Metamizole,500mg,6HQHKICU,3,265.24,18,938.95,True
+TEST-0038,output\test\TEST-0038.pdf,WellCare Medicals,2025-10-28,DR-820476,Azithral 500,Azithromycin,500mg,3QP8T8FL,2,162.86,18,384.35,False
+TEST-0038,output\test\TEST-0038.pdf,WellCare Medicals,2025-10-28,DR-820476,Cetcip,Cetirizine,10mg,3FYRNUON,3,103.79,18,367.42,False
+TEST-0038,output\test\TEST-0038.pdf,WellCare Medicals,2025-10-28,DR-820476,Amoxyclav,Amoxicillin + Clavulanic Acid,500/125mg,IQFY05IO,2,347.75,18,820.69,False
+TEST-0039,output\test\TEST-0039.pdf,CityMed Pharmacy,2025-03-05,DR-552161,Analgin,Metamizole,500mg,SW1JHAC2,3,187.37,5,590.22,True
+TEST-0039,output\test\TEST-0039.pdf,CityMed Pharmacy,2025-03-05,DR-552161,Oflox-OZ,Ofloxacin + Ornidazole,200/500mg,ZWCVF4GB,2,32.94,5,69.17,False
+TEST-0039,output\test\TEST-0039.pdf,CityMed Pharmacy,2025-03-05,DR-552161,Amoxyclav,Amoxicillin + Clavulanic Acid,500/125mg,9RI0UUTA,3,141.66,12,475.98,False
+TEST-0040,output\test\TEST-0040.pdf,GreenLife Drug House,2025-01-15,DR-973741,Nimesulide DT,Nimesulide,100mg,HWQBP4F0,2,147.99,5,310.78,True
+TEST-0040,output\test\TEST-0040.pdf,GreenLife Drug House,2025-01-15,DR-973741,Cetcip,Cetirizine,10mg,1MOJKX29,1,150.56,5,158.09,False
+TEST-0041,output\test\TEST-0041.pdf,HealthPlus Medical Store,2025-02-10,DR-636832,Dolo 650,Paracetamol,650mg,TJ2IDUG1,1,346.52,5,363.85,False
+TEST-0041,output\test\TEST-0041.pdf,HealthPlus Medical Store,2025-02-10,DR-636832,Cetcip,Cetirizine,10mg,3B1HS4S4,2,179.74,18,424.19,False
+TEST-0041,output\test\TEST-0041.pdf,HealthPlus Medical Store,2025-02-10,DR-636832,Saridon,Paracetamol Combo,250/150/50mg,I1I1LT25,3,391.90,18,1387.33,True
+TEST-0042,output\test\TEST-0042.pdf,TrustCare Pharma,2025-11-09,DR-655846,Corex,Codeine + CPM,10mg/4mg,JNYW8ZGK,3,201.58,5,634.98,True
+TEST-0042,output\test\TEST-0042.pdf,TrustCare Pharma,2025-11-09,DR-655846,Amoxyclav,Amoxicillin + Clavulanic Acid,500/125mg,E06UMFRM,3,334.69,12,1124.56,False
+TEST-0043,output\test\TEST-0043.pdf,HealthPlus Medical Store,2025-09-29,DR-131505,Cefixime 200,Cefixime,200mg,Y2LC48XD,1,232.13,5,243.74,False
+TEST-0043,output\test\TEST-0043.pdf,HealthPlus Medical Store,2025-09-29,DR-131505,Oflox-OZ,Ofloxacin + Ornidazole,200/500mg,924KKCEJ,1,132.25,18,156.06,False
+TEST-0044,output\test\TEST-0044.pdf,HealthPlus Medical Store,2025-06-01,DR-103458,Cetcip,Cetirizine,10mg,QASTW67M,2,152.84,18,360.70,False
+TEST-0044,output\test\TEST-0044.pdf,HealthPlus Medical Store,2025-06-01,DR-103458,Nimesulide DT,Nimesulide,100mg,08LFIG3W,1,333.37,12,373.37,True
+TEST-0044,output\test\TEST-0044.pdf,HealthPlus Medical Store,2025-06-01,DR-103458,Amoxyclav,Amoxicillin + Clavulanic Acid,500/125mg,9BCF1R5E,2,70.64,18,166.71,False
+TEST-0044,output\test\TEST-0044.pdf,HealthPlus Medical Store,2025-06-01,DR-103458,Amoxyclav,Amoxicillin + Clavulanic Acid,500/125mg,IPVMAQKO,1,251.13,5,263.69,False
+TEST-0045,output\test\TEST-0045.pdf,GreenLife Drug House,2025-08-15,DR-411346,Cefixime 200,Cefixime,200mg,2TEIUV1F,2,142.12,12,318.35,False
+TEST-0045,output\test\TEST-0045.pdf,GreenLife Drug House,2025-08-15,DR-411346,Nimesulide DT,Nimesulide,100mg,0SQ994GG,3,236.41,18,836.89,True
+TEST-0045,output\test\TEST-0045.pdf,GreenLife Drug House,2025-08-15,DR-411346,Cetcip,Cetirizine,10mg,JSEY3GD0,1,383.95,5,403.15,False
+TEST-0046,output\test\TEST-0046.pdf,TrustCare Pharma,2025-04-17,DR-222611,Cetcip,Cetirizine,10mg,TRNRGI21,1,395.28,12,442.71,False
+TEST-0046,output\test\TEST-0046.pdf,TrustCare Pharma,2025-04-17,DR-222611,Analgin,Metamizole,500mg,LYYMN5B2,3,162.84,12,547.14,True
+TEST-0046,output\test\TEST-0046.pdf,TrustCare Pharma,2025-04-17,DR-222611,Saridon,Paracetamol Combo,250/150/50mg,BCDTZZEK,3,223.58,12,751.23,True
+TEST-0047,output\test\TEST-0047.pdf,HealthPlus Medical Store,2025-07-09,DR-104482,Cefixime 200,Cefixime,200mg,OP1286RV,3,353.28,18,1250.61,False
+TEST-0047,output\test\TEST-0047.pdf,HealthPlus Medical Store,2025-07-09,DR-104482,Saridon,Paracetamol Combo,250/150/50mg,CH89YGTS,2,38.70,12,86.69,True
+TEST-0048,output\test\TEST-0048.pdf,TrustCare Pharma,2025-11-24,DR-650842,Cefixime 200,Cefixime,200mg,4YELES4E,3,397.75,18,1408.04,False
+TEST-0048,output\test\TEST-0048.pdf,TrustCare Pharma,2025-11-24,DR-650842,Analgin,Metamizole,500mg,20GYR4C4,1,173.38,5,182.05,True
+TEST-0048,output\test\TEST-0048.pdf,TrustCare Pharma,2025-11-24,DR-650842,Analgin,Metamizole,500mg,AINS44EY,3,78.83,18,279.06,True
+TEST-0048,output\test\TEST-0048.pdf,TrustCare Pharma,2025-11-24,DR-650842,Azithral 500,Azithromycin,500mg,ZFVVFPFK,2,295.73,18,697.92,False
+TEST-0049,output\test\TEST-0049.pdf,CityMed Pharmacy,2025-07-27,DR-677903,Corex,Codeine + CPM,10mg/4mg,6C0J0DYN,2,43.12,12,96.59,True
+TEST-0049,output\test\TEST-0049.pdf,CityMed Pharmacy,2025-07-27,DR-677903,Cefixime 200,Cefixime,200mg,SISCZILF,3,312.17,5,983.34,False
+TEST-0049,output\test\TEST-0049.pdf,CityMed Pharmacy,2025-07-27,DR-677903,Azithral 500,Azithromycin,500mg,ONGCIBLS,3,197.93,18,700.67,False
+TEST-0050,output\test\TEST-0050.pdf,TrustCare Pharma,2025-07-20,DR-837291,Cefixime 200,Cefixime,200mg,S5B0UIJ8,1,263.79,5,276.98,False
+TEST-0050,output\test\TEST-0050.pdf,TrustCare Pharma,2025-07-20,DR-837291,Azithral 500,Azithromycin,500mg,W5IA5OE6,3,155.87,18,551.78,False
+TEST-0050,output\test\TEST-0050.pdf,TrustCare Pharma,2025-07-20,DR-837291,Saridon,Paracetamol Combo,250/150/50mg,QJATGTQB,2,263.73,12,590.76,True
+TEST-0050,output\test\TEST-0050.pdf,TrustCare Pharma,2025-07-20,DR-837291,Cetcip,Cetirizine,10mg,GHVQTLFP,3,269.05,12,904.01,False
